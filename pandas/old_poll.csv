@@ -1,0 +1,2000 @@
+,id,date,city_name,city_state,voting_intentions
+0,P1,04/09/2022,Jatobá,PE,B
+1,P1,04/09/2022,Brasília,DF,B
+2,P1,04/09/2022,Sidrolândia,MS,A
+3,P1,04/09/2022,Adrianópolis,PR,B
+4,P1,04/09/2022,Osvaldo Cruz,SP,A
+5,P1,04/09/2022,Assunção,PB,A
+6,P1,04/09/2022,Cerqueira César,SP,B
+7,P1,04/09/2022,Porto Walter,AC,B
+8,P1,04/09/2022,Leopoldina,MG,B
+9,P1,04/09/2022,Cambé,PR,A
+10,P1,04/09/2022,Palmeirândia,MA,A
+11,P1,04/09/2022,Breves,PA,B
+12,P1,04/09/2022,Goiânia,GO,A
+13,P1,04/09/2022,São Pedro do Turvo,SP,A
+14,P1,04/09/2022,Piraí,RJ,A
+15,P1,04/09/2022,Formosa do Rio Preto,BA,B
+16,P1,04/09/2022,Aracaju,SE,B
+17,P1,04/09/2022,Guarujá,SP,A
+18,P1,04/09/2022,Resende,RJ,B
+19,P1,04/09/2022,Franca,SP,A
+20,P1,04/09/2022,Mossoró,RN,A
+21,P1,04/09/2022,Tanque d'Arca,AL,B
+22,P1,04/09/2022,Belo Horizonte,MG,A
+23,P1,04/09/2022,Jaú,SP,A
+24,P1,04/09/2022,Nova Olinda do Norte,AM,B
+25,P1,04/09/2022,Iranduba,AM,A
+26,P1,04/09/2022,Natividade,RJ,A
+27,P1,04/09/2022,Itaocara,RJ,B
+28,P1,04/09/2022,Apodi,RN,A
+29,P1,04/09/2022,Cametá,PA,A
+30,P1,04/09/2022,Capitão Andrade,MG,A
+31,P1,04/09/2022,Ji-Paraná,RO,A
+32,P1,04/09/2022,Iranduba,AM,B
+33,P1,04/09/2022,Limoeiro de Anadia,AL,B
+34,P1,04/09/2022,Macapá,AP,A
+35,P1,04/09/2022,Jericó,PB,A
+36,P1,04/09/2022,Mossoró,RN,A
+37,P1,04/09/2022,Porto Seguro,BA,A
+38,P1,04/09/2022,Santana,AP,A
+39,P1,04/09/2022,Alto Alegre,RR,B
+40,P1,04/09/2022,Cotriguaçu,MT,B
+41,P1,04/09/2022,Rolim de Moura,RO,A
+42,P1,04/09/2022,Parnamirim,RN,A
+43,P1,04/09/2022,Cachoeiro de Itapemirim,ES,B
+44,P1,04/09/2022,Santana,AP,A
+45,P1,04/09/2022,São Bento do Sapucaí,SP,B
+46,P1,04/09/2022,Rio Verde,GO,A
+47,P1,04/09/2022,Nova Prata,RS,B
+48,P1,04/09/2022,Limoeiro de Anadia,AL,A
+49,P1,04/09/2022,Buritis,RO,A
+50,P1,04/09/2022,Icapuí,CE,A
+51,P1,04/09/2022,Brasília,DF,A
+52,P1,04/09/2022,Acrelândia,AC,B
+53,P1,04/09/2022,Muniz Ferreira,BA,A
+54,P1,04/09/2022,Rio de Janeiro,RJ,A
+55,P1,04/09/2022,Paripiranga,BA,A
+56,P1,04/09/2022,Magé,RJ,B
+57,P1,04/09/2022,Antas,BA,A
+58,P1,04/09/2022,Marilândia,ES,B
+59,P1,04/09/2022,Rio Branco,AC,B
+60,P1,04/09/2022,Guaramirim,SC,B
+61,P1,04/09/2022,Carnaubais,RN,A
+62,P1,04/09/2022,Santópolis do Aguapeí,SP,A
+63,P1,04/09/2022,Maceió,AL,B
+64,P1,04/09/2022,Paquetá,PI,B
+65,P1,04/09/2022,Zabelê,PB,A
+66,P1,04/09/2022,Salinas da Margarida,BA,A
+67,P1,04/09/2022,Rio Grande,RS,A
+68,P1,04/09/2022,Capitão Poço,PA,B
+69,P1,04/09/2022,Bonito,PA,A
+70,P1,04/09/2022,Manaus,AM,B
+71,P1,04/09/2022,Florínea,SP,B
+72,P1,04/09/2022,Cruzmaltina,PR,A
+73,P1,04/09/2022,Gramado Xavier,RS,A
+74,P1,04/09/2022,União dos Palmares,AL,A
+75,P1,04/09/2022,Rio de Janeiro,RJ,A
+76,P1,04/09/2022,Itaquitinga,PE,A
+77,P1,04/09/2022,Cambará,PR,A
+78,P1,04/09/2022,Currais Novos,RN,B
+79,P1,04/09/2022,Campo Grande,MS,A
+80,P1,04/09/2022,Cruzmaltina,PR,B
+81,P1,04/09/2022,Grão Mogol,MG,A
+82,P1,04/09/2022,Tanque Novo,BA,A
+83,P1,04/09/2022,Porto Walter,AC,B
+84,P1,04/09/2022,Mossoró,RN,B
+85,P1,04/09/2022,Rio Branco,AC,A
+86,P1,04/09/2022,Monte das Gameleiras,RN,A
+87,P1,04/09/2022,Pereiras,SP,A
+88,P1,04/09/2022,Aurelino Leal,BA,B
+89,P1,04/09/2022,Combinado,TO,B
+90,P1,04/09/2022,Bela Cruz,CE,B
+91,P1,04/09/2022,Riversul,SP,A
+92,P1,04/09/2022,São Mateus,ES,B
+93,P1,04/09/2022,Alvarães,AM,A
+94,P1,04/09/2022,Pauini,AM,B
+95,P1,04/09/2022,Glória do Goitá,PE,B
+96,P1,04/09/2022,São Paulo,SP,A
+97,P1,04/09/2022,Araucária,PR,A
+98,P1,04/09/2022,Cabrobó,PE,B
+99,P1,04/09/2022,Igarapé Grande,MA,A
+100,P1,04/09/2022,Ipanema,MG,A
+101,P1,04/09/2022,Franco da Rocha,SP,A
+102,P1,04/09/2022,São Paulo,SP,A
+103,P1,04/09/2022,São Cristóvão,SE,B
+104,P1,04/09/2022,Vila Propício,GO,B
+105,P1,04/09/2022,Mirinzal,MA,A
+106,P1,04/09/2022,Tefé,AM,B
+107,P1,04/09/2022,Parnamirim,RN,A
+108,P1,04/09/2022,Concórdia do Pará,PA,B
+109,P1,04/09/2022,Pacajus,CE,A
+110,P1,04/09/2022,Vilhena,RO,B
+111,P1,04/09/2022,Orleans,SC,B
+112,P1,04/09/2022,São Caetano do Sul,SP,A
+113,P1,04/09/2022,Naviraí,MS,B
+114,P1,04/09/2022,Conceição da Feira,BA,A
+115,P1,04/09/2022,Caicó,RN,B
+116,P1,04/09/2022,São Paulo,SP,A
+117,P1,04/09/2022,Pracuúba,AP,A
+118,P1,04/09/2022,Ponta Grossa,PR,B
+119,P1,04/09/2022,Crixás do Tocantins,TO,B
+120,P1,04/09/2022,Fortaleza,CE,A
+121,P1,04/09/2022,Mariana,MG,A
+122,P1,04/09/2022,Cruzmaltina,PR,B
+123,P1,04/09/2022,Parnaguá,PI,B
+124,P1,04/09/2022,Boa Vista,RR,B
+125,P1,04/09/2022,Santo Antônio do Içá,AM,B
+126,P1,04/09/2022,Teresina,PI,B
+127,P1,04/09/2022,Prata do Piauí,PI,A
+128,P1,04/09/2022,Ouro Branco,MG,A
+129,P1,04/09/2022,Manaquiri,AM,A
+130,P1,04/09/2022,Itapecuru Mirim,MA,A
+131,P1,04/09/2022,Nova Olinda do Norte,AM,B
+132,P1,04/09/2022,Rio Branco,AC,A
+133,P1,04/09/2022,Capitão Poço,PA,B
+134,P1,04/09/2022,Campina do Monte Alegre,SP,B
+135,P1,04/09/2022,Amaraji,PE,A
+136,P1,04/09/2022,Rio das Ostras,RJ,B
+137,P1,04/09/2022,Ribeira do Amparo,BA,A
+138,P1,04/09/2022,Pontalina,GO,A
+139,P1,04/09/2022,Tonantins,AM,A
+140,P1,04/09/2022,São Luís do Quitunde,AL,A
+141,P1,04/09/2022,Ariquemes,RO,A
+142,P1,04/09/2022,Cidade Ocidental,GO,A
+143,P1,04/09/2022,Guabiju,RS,A
+144,P1,04/09/2022,Araraquara,SP,A
+145,P1,04/09/2022,Santana,AP,B
+146,P1,04/09/2022,Alta Floresta,MT,A
+147,P1,04/09/2022,Carmópolis de Minas,MG,A
+148,P1,04/09/2022,Oeiras,PI,B
+149,P1,04/09/2022,Rio das Ostras,RJ,B
+150,P1,04/09/2022,Áurea,RS,A
+151,P1,04/09/2022,Vargem Grande,MA,A
+152,P1,04/09/2022,Barras,PI,A
+153,P1,04/09/2022,Acorizal,MT,A
+154,P1,04/09/2022,Pedra Branca do Amapari,AP,A
+155,P1,04/09/2022,São José das Palmeiras,PR,B
+156,P1,04/09/2022,Analândia,SP,B
+157,P1,04/09/2022,Guarulhos,SP,A
+158,P1,04/09/2022,Linhares,ES,A
+159,P1,04/09/2022,Anagé,BA,A
+160,P1,04/09/2022,Rio das Ostras,RJ,A
+161,P1,04/09/2022,São Paulo,SP,A
+162,P1,04/09/2022,Mundo Novo,MS,A
+163,P1,04/09/2022,Ouricuri,PE,A
+164,P1,04/09/2022,Mariápolis,SP,B
+165,P1,04/09/2022,Garanhuns,PE,A
+166,P1,04/09/2022,Sapiranga,RS,B
+167,P1,04/09/2022,Guaraí,TO,A
+168,P1,04/09/2022,Porto Velho,RO,B
+169,P1,04/09/2022,Porto Walter,AC,B
+170,P1,04/09/2022,Iguaba Grande,RJ,A
+171,P1,04/09/2022,Guapé,MG,A
+172,P1,04/09/2022,Meruoca,CE,A
+173,P1,04/09/2022,Jaguaré,ES,A
+174,P1,04/09/2022,Joaçaba,SC,B
+175,P1,04/09/2022,Ribeirão Pires,SP,B
+176,P1,04/09/2022,Aparecida do Taboado,MS,A
+177,P1,04/09/2022,Reriutaba,CE,B
+178,P1,04/09/2022,Uruguaiana,RS,A
+179,P1,04/09/2022,Guarulhos,SP,B
+180,P1,04/09/2022,Bento Gonçalves,RS,A
+181,P1,04/09/2022,Douradina,MS,A
+182,P1,04/09/2022,Salinas da Margarida,BA,B
+183,P1,04/09/2022,Canguçu,RS,B
+184,P1,04/09/2022,Teófilo Otoni,MG,B
+185,P1,04/09/2022,Capixaba,AC,B
+186,P1,04/09/2022,Serrinha,BA,A
+187,P1,04/09/2022,Mirangaba,BA,B
+188,P1,04/09/2022,Venda Nova do Imigrante,ES,B
+189,P1,04/09/2022,Pirapora do Bom Jesus,SP,A
+190,P1,04/09/2022,Balsas,MA,A
+191,P1,04/09/2022,Manaquiri,AM,B
+192,P1,04/09/2022,Clementina,SP,B
+193,P1,04/09/2022,Nossa Senhora do Socorro,SE,B
+194,P1,04/09/2022,São Bento do Sapucaí,SP,B
+195,P1,04/09/2022,Cruzmaltina,PR,B
+196,P1,04/09/2022,Viana,ES,A
+197,P1,04/09/2022,Cataguases,MG,B
+198,P1,04/09/2022,São Gabriel da Cachoeira,AM,B
+199,P1,04/09/2022,São Miguel Arcanjo,SP,B
+200,P1,04/09/2022,Guarujá,SP,A
+201,P1,04/09/2022,Forquilha,CE,A
+202,P1,04/09/2022,Chapecó,SC,A
+203,P1,04/09/2022,Itaberaba,BA,B
+204,P1,04/09/2022,Maracanã,PA,B
+205,P1,04/09/2022,Anitápolis,SC,B
+206,P1,04/09/2022,Rio das Ostras,RJ,B
+207,P1,04/09/2022,Maceió,AL,A
+208,P1,04/09/2022,Ji-Paraná,RO,B
+209,P1,04/09/2022,Boa Vista,RR,A
+210,P1,04/09/2022,Olinda Nova do Maranhão,MA,A
+211,P1,04/09/2022,Manacapuru,AM,A
+212,P1,04/09/2022,Porto Walter,AC,B
+213,P1,04/09/2022,Jericó,PB,A
+214,P1,04/09/2022,Diamante D'Oeste,PR,B
+215,P1,04/09/2022,Betim,MG,B
+216,P1,04/09/2022,Vila Velha,ES,B
+217,P1,04/09/2022,Limoeiro de Anadia,AL,A
+218,P1,04/09/2022,Vargem Grande,MA,A
+219,P1,04/09/2022,Brasília,DF,B
+220,P1,04/09/2022,Jandaia,GO,A
+221,P1,04/09/2022,Cacimbinhas,AL,A
+222,P1,04/09/2022,Ibirataia,BA,B
+223,P1,04/09/2022,Presidente Prudente,SP,B
+224,P1,04/09/2022,Vila Velha,ES,B
+225,P1,04/09/2022,Pedro Avelino,RN,A
+226,P1,04/09/2022,Natal,RN,B
+227,P1,04/09/2022,Nossa Senhora do Socorro,SE,A
+228,P1,04/09/2022,Catanduvas,PR,B
+229,P1,04/09/2022,Pium,TO,A
+230,P1,04/09/2022,Rurópolis,PA,B
+231,P1,04/09/2022,Coxixola,PB,A
+232,P1,04/09/2022,Camanducaia,MG,B
+233,P1,04/09/2022,Santana da Boa Vista,RS,B
+234,P1,04/09/2022,Santo André,SP,B
+235,P1,04/09/2022,Salinas da Margarida,BA,A
+236,P1,04/09/2022,Brasília,DF,B
+237,P1,04/09/2022,Aquidabã,SE,B
+238,P1,04/09/2022,Santa Luzia do Itanhy,SE,A
+239,P1,04/09/2022,Buriticupu,MA,A
+240,P1,04/09/2022,Uruguaiana,RS,B
+241,P1,04/09/2022,Ilha das Flores,SE,A
+242,P1,04/09/2022,Verdejante,PE,B
+243,P1,04/09/2022,Laranjal do Jari,AP,A
+244,P1,04/09/2022,Juazeiro do Norte,CE,B
+245,P1,04/09/2022,Monte Alegre,RN,B
+246,P1,04/09/2022,Goiatins,TO,A
+247,P1,04/09/2022,Monsenhor Tabosa,CE,A
+248,P1,04/09/2022,Terenos,MS,B
+249,P1,04/09/2022,Uruguaiana,RS,A
+250,P1,04/09/2022,Dianópolis,TO,B
+251,P1,04/09/2022,Senhor do Bonfim,BA,A
+252,P1,04/09/2022,Chapecó,SC,B
+253,P1,04/09/2022,Chapecó,SC,B
+254,P1,04/09/2022,Pimenta Bueno,RO,B
+255,P1,04/09/2022,Paraíba do Sul,RJ,B
+256,P1,04/09/2022,Atibaia,SP,B
+257,P1,04/09/2022,Araxá,MG,B
+258,P1,04/09/2022,Nazaré da Mata,PE,A
+259,P1,04/09/2022,Valença,BA,A
+260,P1,04/09/2022,Salvador,BA,A
+261,P1,04/09/2022,São Miguel do Guaporé,RO,A
+262,P1,04/09/2022,Alterosa,MG,A
+263,P1,04/09/2022,Barra do Rocha,BA,B
+264,P1,04/09/2022,Capivari,SP,A
+265,P1,04/09/2022,Camaragibe,PE,B
+266,P1,04/09/2022,Rio das Ostras,RJ,B
+267,P1,04/09/2022,Iguaí,BA,A
+268,P1,04/09/2022,Cotriguaçu,MT,A
+269,P1,04/09/2022,Vila Velha,ES,B
+270,P1,04/09/2022,Brasília,DF,A
+271,P1,04/09/2022,Natal,RN,A
+272,P1,04/09/2022,Vale de São Domingos,MT,B
+273,P1,04/09/2022,Almirante Tamandaré,PR,B
+274,P1,04/09/2022,Benedito Leite,MA,B
+275,P1,04/09/2022,Jericó,PB,B
+276,P1,04/09/2022,Nossa Senhora de Lourdes,SE,A
+277,P1,04/09/2022,Catuípe,RS,A
+278,P1,04/09/2022,Alto Alegre,RR,A
+279,P1,04/09/2022,Rio Branco,AC,A
+280,P1,04/09/2022,São Paulo,SP,B
+281,P1,04/09/2022,Palmas,TO,A
+282,P1,04/09/2022,Campo Grande,MS,B
+283,P1,04/09/2022,Laranjeiras,SE,A
+284,P1,04/09/2022,Manacapuru,AM,B
+285,P1,04/09/2022,Belém,PA,A
+286,P1,04/09/2022,São Paulo,SP,B
+287,P1,04/09/2022,Quixaba,PE,B
+288,P1,04/09/2022,Erechim,RS,B
+289,P1,04/09/2022,Santa Clara do Sul,RS,B
+290,P1,04/09/2022,Talismã,TO,B
+291,P1,04/09/2022,Tatuí,SP,B
+292,P1,04/09/2022,Barra do Garças,MT,B
+293,P1,04/09/2022,Oeiras do Pará,PA,B
+294,P1,04/09/2022,Jutaí,AM,B
+295,P1,04/09/2022,Pimenta Bueno,RO,A
+296,P1,04/09/2022,Xapuri,AC,A
+297,P1,04/09/2022,Sapopema,PR,B
+298,P1,04/09/2022,Esperantina,PI,A
+299,P1,04/09/2022,Tombos,MG,A
+300,P1,04/09/2022,Serra Nova Dourada,MT,B
+301,P1,04/09/2022,Nova Canaã do Norte,MT,B
+302,P1,04/09/2022,Fortaleza,CE,B
+303,P1,04/09/2022,Brasília,DF,B
+304,P1,04/09/2022,União,PI,A
+305,P1,04/09/2022,Mazagão,AP,A
+306,P1,04/09/2022,Castanheira,MT,B
+307,P1,04/09/2022,Laranjal do Jari,AP,B
+308,P1,04/09/2022,Laranjal do Jari,AP,A
+309,P1,04/09/2022,Taperoá,PB,A
+310,P1,04/09/2022,Mauá,SP,B
+311,P1,04/09/2022,São João da Barra,RJ,B
+312,P1,04/09/2022,Manaus,AM,A
+313,P1,04/09/2022,São Miguel Arcanjo,SP,B
+314,P1,04/09/2022,Sena Madureira,AC,B
+315,P1,04/09/2022,Recife,PE,A
+316,P1,04/09/2022,Vila Valério,ES,B
+317,P1,04/09/2022,Louveira,SP,B
+318,P1,04/09/2022,Itanagra,BA,A
+319,P1,04/09/2022,São Paulo,SP,B
+320,P1,04/09/2022,Porteiras,CE,B
+321,P1,04/09/2022,São Miguel Arcanjo,SP,A
+322,P1,04/09/2022,Douradina,MS,A
+323,P1,04/09/2022,Camapuã,MS,A
+324,P1,04/09/2022,Pedra,PE,B
+325,P1,04/09/2022,Cotriguaçu,MT,B
+326,P1,04/09/2022,São Paulo,SP,A
+327,P1,04/09/2022,Aracitaba,MG,A
+328,P1,04/09/2022,Triunfo,PE,A
+329,P1,04/09/2022,São Gonçalo,RJ,B
+330,P1,04/09/2022,São Miguel Arcanjo,SP,A
+331,P1,04/09/2022,Comodoro,MT,B
+332,P1,04/09/2022,Santa Luzia do Paruá,MA,B
+333,P1,04/09/2022,Petrópolis,RJ,B
+334,P1,04/09/2022,São Domingos,SE,A
+335,P1,04/09/2022,Porto dos Gaúchos,MT,B
+336,P1,04/09/2022,Pareci Novo,RS,A
+337,P1,04/09/2022,Guarujá,SP,B
+338,P1,04/09/2022,Botucatu,SP,A
+339,P1,04/09/2022,Santana do Araguaia,PA,B
+340,P1,04/09/2022,Barcarena,PA,A
+341,P1,04/09/2022,Pocinhos,PB,B
+342,P1,04/09/2022,Santanópolis,BA,B
+343,P1,04/09/2022,Brasília,DF,A
+344,P1,04/09/2022,Aracaju,SE,A
+345,P1,04/09/2022,Aparecida do Taboado,MS,B
+346,P1,04/09/2022,Alto Alegre,RR,B
+347,P1,04/09/2022,Campo Grande,MS,A
+348,P1,04/09/2022,Brasília,DF,B
+349,P1,04/09/2022,Santa Cruz,RN,A
+350,P1,04/09/2022,Parnaíba,PI,A
+351,P1,04/09/2022,Alto Parnaíba,MA,B
+352,P1,04/09/2022,Belmiro Braga,MG,A
+353,P1,04/09/2022,São José do Cedro,SC,B
+354,P1,04/09/2022,Gurupi,TO,A
+355,P1,04/09/2022,Barro Duro,PI,B
+356,P1,04/09/2022,Palmas de Monte Alto,BA,A
+357,P1,04/09/2022,Buíque,PE,B
+358,P1,04/09/2022,Vicência,PE,B
+359,P1,04/09/2022,Ouro Verde do Oeste,PR,B
+360,P1,04/09/2022,Carapicuíba,SP,B
+361,P1,04/09/2022,Cujubim,RO,A
+362,P1,04/09/2022,Lagoa d'Anta,RN,A
+363,P1,04/09/2022,Eliseu Martins,PI,B
+364,P1,04/09/2022,Saquarema,RJ,A
+365,P1,04/09/2022,Assis Brasil,AC,B
+366,P1,04/09/2022,Entre Rios,SC,B
+367,P1,04/09/2022,Almenara,MG,B
+368,P1,04/09/2022,Nilópolis,RJ,A
+369,P1,04/09/2022,Cotriguaçu,MT,B
+370,P1,04/09/2022,Poço Redondo,SE,A
+371,P1,04/09/2022,Lacerdópolis,SC,A
+372,P1,04/09/2022,Nova Venécia,ES,B
+373,P1,04/09/2022,Jaramataia,AL,A
+374,P1,04/09/2022,Porto Velho,RO,B
+375,P1,04/09/2022,Anápolis,GO,A
+376,P1,04/09/2022,Visconde do Rio Branco,MG,A
+377,P1,04/09/2022,Aracaju,SE,A
+378,P1,04/09/2022,Francisco Morato,SP,B
+379,P1,04/09/2022,Osvaldo Cruz,SP,B
+380,P1,04/09/2022,Nova Mamoré,RO,B
+381,P1,04/09/2022,Colômbia,SP,B
+382,P1,04/09/2022,Marechal Thaumaturgo,AC,B
+383,P1,04/09/2022,Nhamundá,AM,A
+384,P1,04/09/2022,Alto Alegre,RR,B
+385,P1,04/09/2022,Fortaleza,CE,B
+386,P1,04/09/2022,Além Paraíba,MG,A
+387,P1,04/09/2022,Jauru,MT,B
+388,P1,04/09/2022,Anajás,PA,A
+389,P1,04/09/2022,Guanhães,MG,B
+390,P1,04/09/2022,Aracaju,SE,B
+391,P1,04/09/2022,Forquilha,CE,A
+392,P1,04/09/2022,Palmas,TO,A
+393,P1,04/09/2022,Camapuã,MS,B
+394,P1,04/09/2022,Cascavel,PR,B
+395,P1,04/09/2022,Itaiópolis,SC,B
+396,P1,04/09/2022,Laranjal do Jari,AP,A
+397,P1,04/09/2022,Chapecó,SC,B
+398,P1,04/09/2022,Parnamirim,RN,A
+399,P1,04/09/2022,São Paulo,SP,B
+400,P1,04/09/2022,São Luís,MA,B
+401,P1,04/09/2022,Arapiraca,AL,B
+402,P1,04/09/2022,Miranda do Norte,MA,B
+403,P1,04/09/2022,Brasília,DF,A
+404,P1,04/09/2022,Pitangui,MG,B
+405,P1,04/09/2022,São Paulo,SP,B
+406,P1,04/09/2022,Dourados,MS,B
+407,P1,04/09/2022,Bom Jesus da Lapa,BA,A
+408,P1,04/09/2022,Itapecerica da Serra,SP,B
+409,P1,04/09/2022,Santa Quitéria do Maranhão,MA,B
+410,P1,04/09/2022,Suzano,SP,B
+411,P1,04/09/2022,Sousa,PB,B
+412,P1,04/09/2022,Itabaiana,SE,A
+413,P1,04/09/2022,Oeiras,PI,A
+414,P1,04/09/2022,Douradina,MS,A
+415,P1,04/09/2022,Maracaju,MS,B
+416,P1,04/09/2022,Limoeiro de Anadia,AL,A
+417,P1,04/09/2022,São Carlos,SC,B
+418,P1,04/09/2022,Limoeiro de Anadia,AL,A
+419,P1,04/09/2022,Igreja Nova,AL,A
+420,P1,04/09/2022,Belmiro Braga,MG,A
+421,P1,04/09/2022,Formosa,GO,B
+422,P1,04/09/2022,Guarulhos,SP,A
+423,P1,04/09/2022,Iracema,RR,B
+424,P1,04/09/2022,Laranjal do Jari,AP,A
+425,P1,04/09/2022,Novo Mundo,MT,A
+426,P1,04/09/2022,Arapoema,TO,B
+427,P1,04/09/2022,Inhumas,GO,A
+428,P1,04/09/2022,João Câmara,RN,B
+429,P1,04/09/2022,José Bonifácio,SP,A
+430,P1,04/09/2022,Arraias,TO,B
+431,P1,04/09/2022,Campo Grande,MS,B
+432,P1,04/09/2022,Ibirataia,BA,B
+433,P1,04/09/2022,Carpina,PE,B
+434,P1,04/09/2022,Forquilha,CE,A
+435,P1,04/09/2022,Carpina,PE,B
+436,P1,04/09/2022,Campos Sales,CE,B
+437,P1,04/09/2022,Cerejeiras,RO,B
+438,P1,04/09/2022,Alto Alegre,RR,B
+439,P1,04/09/2022,Cuiabá,MT,B
+440,P1,04/09/2022,Aracaju,SE,A
+441,P1,04/09/2022,Americana,SP,A
+442,P1,04/09/2022,Ipubi,PE,B
+443,P1,04/09/2022,Itanhaém,SP,A
+444,P1,04/09/2022,Camalaú,PB,A
+445,P1,04/09/2022,Codó,MA,A
+446,P1,04/09/2022,Uirapuru,GO,B
+447,P1,04/09/2022,Brasília,DF,B
+448,P1,04/09/2022,Embaúba,SP,B
+449,P1,04/09/2022,Manaus,AM,A
+450,P1,04/09/2022,Macapá,AP,A
+451,P1,04/09/2022,Itaoca,SP,B
+452,P1,04/09/2022,Dueré,TO,B
+453,P1,04/09/2022,Rio Preto da Eva,AM,A
+454,P1,04/09/2022,Alegrete,RS,A
+455,P1,04/09/2022,Volta Redonda,RJ,A
+456,P1,04/09/2022,Rio Branco,AC,B
+457,P1,04/09/2022,Campo Grande,MS,B
+458,P1,04/09/2022,Caxias do Sul,RS,A
+459,P1,04/09/2022,Londrina,PR,A
+460,P1,04/09/2022,Iguatemi,MS,B
+461,P1,04/09/2022,Maceió,AL,B
+462,P1,04/09/2022,Joaçaba,SC,B
+463,P1,04/09/2022,Belém,PA,B
+464,P1,04/09/2022,Marabá,PA,A
+465,P1,04/09/2022,São Fidélis,RJ,B
+466,P1,04/09/2022,Patrocínio,MG,A
+467,P1,04/09/2022,Manaus,AM,A
+468,P1,04/09/2022,São Simão,GO,B
+469,P1,04/09/2022,Rodrigues Alves,AC,B
+470,P1,04/09/2022,Manaquiri,AM,B
+471,P1,04/09/2022,Porto Walter,AC,B
+472,P1,04/09/2022,São Miguel Arcanjo,SP,B
+473,P1,04/09/2022,Moju,PA,A
+474,P1,04/09/2022,Euclides da Cunha,BA,A
+475,P1,04/09/2022,João Pessoa,PB,A
+476,P1,04/09/2022,Anadia,AL,A
+477,P1,04/09/2022,São Paulo,SP,B
+478,P1,04/09/2022,Brasília,DF,A
+479,P1,04/09/2022,Curuçá,PA,A
+480,P1,04/09/2022,Paço do Lumiar,MA,A
+481,P1,04/09/2022,Mari,PB,B
+482,P1,04/09/2022,São Paulo,SP,B
+483,P1,04/09/2022,Sorocaba,SP,B
+484,P1,04/09/2022,Areia Branca,SE,A
+485,P1,04/09/2022,Anajás,PA,B
+486,P1,04/09/2022,Cambará,PR,B
+487,P1,04/09/2022,Laranja da Terra,ES,A
+488,P1,04/09/2022,Boquim,SE,B
+489,P1,04/09/2022,Vila Valério,ES,B
+490,P1,04/09/2022,Pirangi,SP,A
+491,P1,04/09/2022,Itabaianinha,SE,A
+492,P1,04/09/2022,Mogi Guaçu,SP,A
+493,P1,04/09/2022,Belmiro Braga,MG,B
+494,P1,04/09/2022,Mossoró,RN,A
+495,P1,04/09/2022,Tatuí,SP,B
+496,P1,04/09/2022,São Paulo,SP,A
+497,P1,04/09/2022,Macapá,AP,A
+498,P1,04/09/2022,Brasília,DF,B
+499,P1,04/09/2022,Rolim de Moura,RO,B
+500,P1,04/09/2022,Leme,SP,A
+501,P1,04/09/2022,Cacoal,RO,B
+502,P1,04/09/2022,São João da Baliza,RR,B
+503,P1,04/09/2022,Matozinhos,MG,A
+504,P1,04/09/2022,Brasília,DF,A
+505,P1,04/09/2022,Paraíso,SC,B
+506,P1,04/09/2022,Maceió,AL,A
+507,P1,04/09/2022,São José dos Pinhais,PR,B
+508,P1,04/09/2022,São Paulo,SP,A
+509,P1,04/09/2022,Nova Canaã do Norte,MT,A
+510,P1,04/09/2022,Pimenta Bueno,RO,B
+511,P1,04/09/2022,Milhã,CE,A
+512,P1,04/09/2022,Formosa do Oeste,PR,A
+513,P1,04/09/2022,Glória de Dourados,MS,A
+514,P1,04/09/2022,Teresina,PI,A
+515,P1,04/09/2022,Rio de Janeiro,RJ,B
+516,P1,04/09/2022,Matão,SP,B
+517,P1,04/09/2022,Rio Branco,AC,B
+518,P1,04/09/2022,Chopinzinho,PR,B
+519,P1,04/09/2022,Piripiri,PI,A
+520,P1,04/09/2022,Nova Xavantina,MT,A
+521,P1,04/09/2022,Caiçara,RS,A
+522,P1,04/09/2022,Maceió,AL,A
+523,P1,04/09/2022,Varginha,MG,A
+524,P1,04/09/2022,Lassance,MG,B
+525,P1,04/09/2022,Mossoró,RN,A
+526,P1,04/09/2022,Brasília,DF,B
+527,P1,04/09/2022,Forquilha,CE,B
+528,P1,04/09/2022,Brusque,SC,B
+529,P1,04/09/2022,Itaguatins,TO,A
+530,P1,04/09/2022,Santa Cruz do Capibaribe,PE,B
+531,P1,04/09/2022,Rio das Ostras,RJ,B
+532,P1,04/09/2022,Juru,PB,A
+533,P1,04/09/2022,Serrita,PE,A
+534,P1,04/09/2022,Piraquara,PR,A
+535,P1,04/09/2022,Forquilha,CE,B
+536,P1,04/09/2022,Piatã,BA,B
+537,P1,04/09/2022,Divina Pastora,SE,A
+538,P1,04/09/2022,Clevelândia,PR,B
+539,P1,04/09/2022,Alto Alegre,RR,B
+540,P1,04/09/2022,Lagoa da Canoa,AL,A
+541,P1,04/09/2022,Porto Grande,AP,B
+542,P1,04/09/2022,Franco da Rocha,SP,B
+543,P1,04/09/2022,Mossoró,RN,A
+544,P1,04/09/2022,Campo Novo de Rondônia,RO,B
+545,P1,04/09/2022,Hugo Napoleão,PI,B
+546,P1,04/09/2022,Maceió,AL,A
+547,P1,04/09/2022,Rio das Ostras,RJ,A
+548,P1,04/09/2022,São Roque do Canaã,ES,B
+549,P1,04/09/2022,Palmas,TO,A
+550,P1,04/09/2022,Feira da Mata,BA,A
+551,P1,04/09/2022,Alta Floresta D'Oeste,RO,B
+552,P1,04/09/2022,Manaquiri,AM,A
+553,P1,04/09/2022,Batayporã,MS,A
+554,P1,04/09/2022,Novo Cabrais,RS,A
+555,P1,04/09/2022,Salto do Céu,MT,B
+556,P1,04/09/2022,Porto Walter,AC,B
+557,P1,04/09/2022,Sossêgo,PB,A
+558,P1,04/09/2022,Itanhomi,MG,A
+559,P1,04/09/2022,Barão de Melgaço,MT,B
+560,P1,04/09/2022,Medina,MG,A
+561,P1,04/09/2022,Corumbá,MS,B
+562,P1,04/09/2022,Jatobá do Piauí,PI,A
+563,P1,04/09/2022,Senador Guiomard,AC,B
+564,P1,04/09/2022,São Miguel Arcanjo,SP,A
+565,P1,04/09/2022,Guarulhos,SP,B
+566,P1,04/09/2022,Rio de Janeiro,RJ,A
+567,P1,04/09/2022,Camalaú,PB,B
+568,P1,04/09/2022,Santa Luzia,PB,B
+569,P1,04/09/2022,Manaquiri,AM,A
+570,P1,04/09/2022,Alto Alegre,RR,B
+571,P1,04/09/2022,Tarauacá,AC,B
+572,P1,04/09/2022,Limoeiro de Anadia,AL,A
+573,P1,04/09/2022,Nova Brasilândia D'Oeste,RO,A
+574,P1,04/09/2022,Bujari,AC,B
+575,P1,04/09/2022,Aracitaba,MG,B
+576,P1,04/09/2022,Mercedes,PR,A
+577,P1,04/09/2022,Nova Friburgo,RJ,B
+578,P1,04/09/2022,Petrolina,PE,A
+579,P1,04/09/2022,Taquarana,AL,B
+580,P1,04/09/2022,Porto Walter,AC,B
+581,P1,04/09/2022,Timon,MA,A
+582,P1,04/09/2022,Deputado Irapuan Pinheiro,CE,A
+583,P1,04/09/2022,São Lourenço,MG,A
+584,P1,04/09/2022,Anadia,AL,A
+585,P1,04/09/2022,Guajará-Mirim,RO,A
+586,P1,04/09/2022,Rio Branco,AC,B
+587,P1,04/09/2022,Turilândia,MA,B
+588,P1,04/09/2022,Santo Inácio,PR,B
+589,P1,04/09/2022,Jacareacanga,PA,A
+590,P1,04/09/2022,Tomar do Geru,SE,B
+591,P1,04/09/2022,Palestina do Pará,PA,B
+592,P1,04/09/2022,Água Preta,PE,A
+593,P1,04/09/2022,Cravinhos,SP,A
+594,P1,04/09/2022,São Manuel,SP,B
+595,P1,04/09/2022,Santa Maria das Barreiras,PA,A
+596,P1,04/09/2022,Vanini,RS,B
+597,P1,04/09/2022,Maceió,AL,A
+598,P1,04/09/2022,Aracruz,ES,B
+599,P1,04/09/2022,Pedra,PE,A
+600,P1,04/09/2022,São Domingos,SC,A
+601,P1,04/09/2022,Ribeirão das Neves,MG,A
+602,P1,04/09/2022,Feijó,AC,A
+603,P1,04/09/2022,Aracaju,SE,A
+604,P1,04/09/2022,Talismã,TO,A
+605,P1,04/09/2022,Vila Velha,ES,B
+606,P1,04/09/2022,Cachoeira Dourada,GO,B
+607,P1,04/09/2022,Porto Walter,AC,B
+608,P1,04/09/2022,Alto Feliz,RS,B
+609,P1,04/09/2022,Augustinópolis,TO,B
+610,P1,04/09/2022,Rio Grande,RS,A
+611,P1,04/09/2022,Capixaba,AC,B
+612,P1,04/09/2022,Itapuã do Oeste,RO,B
+613,P1,04/09/2022,Areia Branca,RN,B
+614,P1,04/09/2022,Aquidabã,SE,B
+615,P1,04/09/2022,Porto Velho,RO,B
+616,P1,04/09/2022,Camalaú,PB,A
+617,P1,04/09/2022,Cantá,RR,B
+618,P1,04/09/2022,Alexandria,RN,A
+619,P1,04/09/2022,Santana do Araguaia,PA,A
+620,P1,04/09/2022,Baraúna,PB,A
+621,P1,04/09/2022,Jordão,AC,A
+622,P1,04/09/2022,São Vicente do Sul,RS,A
+623,P1,04/09/2022,Campo Grande,MS,A
+624,P1,04/09/2022,Assis Brasil,AC,B
+625,P1,04/09/2022,Araguanã,TO,B
+626,P1,04/09/2022,Duas Barras,RJ,B
+627,P1,04/09/2022,Ibirajuba,PE,A
+628,P1,04/09/2022,São Luís,MA,B
+629,P1,04/09/2022,Itaipé,MG,B
+630,P1,04/09/2022,Marechal Deodoro,AL,A
+631,P1,04/09/2022,Sorocaba,SP,A
+632,P1,04/09/2022,Faxinal,PR,A
+633,P1,04/09/2022,Aquidabã,SE,B
+634,P1,04/09/2022,Santa Luzia D'Oeste,RO,B
+635,P1,04/09/2022,Anadia,AL,A
+636,P1,04/09/2022,Santo Antônio de Goiás,GO,A
+637,P1,04/09/2022,Doutor Severiano,RN,A
+638,P1,04/09/2022,Aracaju,SE,B
+639,P1,04/09/2022,Nova Iguaçu,RJ,A
+640,P1,04/09/2022,Serra,ES,B
+641,P1,04/09/2022,São Paulo,SP,B
+642,P1,04/09/2022,Chuí,RS,B
+643,P1,04/09/2022,Diadema,SP,A
+644,P1,04/09/2022,Rio Branco,AC,B
+645,P1,04/09/2022,Guarulhos,SP,B
+646,P1,04/09/2022,Jaboatão dos Guararapes,PE,B
+647,P1,04/09/2022,Camalaú,PB,B
+648,P1,04/09/2022,Almirante Tamandaré,PR,B
+649,P1,04/09/2022,Rio Tinto,PB,A
+650,P1,04/09/2022,Brejetuba,ES,A
+651,P1,04/09/2022,Mossoró,RN,B
+652,P1,04/09/2022,Embaúba,SP,A
+653,P1,04/09/2022,Rondonópolis,MT,A
+654,P1,04/09/2022,Santa Cruz da Baixa Verde,PE,A
+655,P1,04/09/2022,Araruna,PR,A
+656,P1,04/09/2022,Várzea Paulista,SP,B
+657,P1,04/09/2022,Consolação,MG,A
+658,P1,04/09/2022,Jaru,RO,A
+659,P1,04/09/2022,Rio das Ostras,RJ,B
+660,P1,04/09/2022,Goiânia,GO,A
+661,P1,04/09/2022,Cacoal,RO,B
+662,P1,04/09/2022,Nhamundá,AM,B
+663,P1,04/09/2022,Cabixi,RO,B
+664,P1,04/09/2022,Córrego Fundo,MG,B
+665,P1,04/09/2022,Anadia,AL,B
+666,P1,04/09/2022,Floresta,PE,A
+667,P1,04/09/2022,São Joaquim,SC,A
+668,P1,04/09/2022,Catuípe,RS,B
+669,P1,04/09/2022,Mato Grosso,PB,A
+670,P1,04/09/2022,Conselheiro Lafaiete,MG,B
+671,P1,04/09/2022,Rio de Janeiro,RJ,A
+672,P1,04/09/2022,Porto Real,RJ,B
+673,P1,04/09/2022,Barra do Bugres,MT,B
+674,P1,04/09/2022,Brasília,DF,B
+675,P1,04/09/2022,Campinápolis,MT,A
+676,P1,04/09/2022,Maracás,BA,A
+677,P1,04/09/2022,São Paulo,SP,A
+678,P1,04/09/2022,São Domingos do Norte,ES,A
+679,P1,04/09/2022,Belém do Brejo do Cruz,PB,B
+680,P1,04/09/2022,Boa Vista do Ramos,AM,A
+681,P1,04/09/2022,Jacuizinho,RS,A
+682,P1,04/09/2022,Balneário Barra do Sul,SC,A
+683,P1,04/09/2022,Vicência,PE,A
+684,P1,04/09/2022,Rio de Janeiro,RJ,A
+685,P1,04/09/2022,Laranjal do Jari,AP,B
+686,P1,04/09/2022,Figueirópolis,TO,A
+687,P1,04/09/2022,Goiatins,TO,B
+688,P1,04/09/2022,Cidelândia,MA,B
+689,P1,04/09/2022,Jumirim,SP,B
+690,P1,04/09/2022,Maceió,AL,A
+691,P1,04/09/2022,Manaus,AM,B
+692,P1,04/09/2022,Rio das Ostras,RJ,A
+693,P1,04/09/2022,Itacajá,TO,A
+694,P1,04/09/2022,Maragogi,AL,A
+695,P1,04/09/2022,Rio Branco,AC,B
+696,P1,04/09/2022,Fortaleza,CE,A
+697,P1,04/09/2022,Fortaleza,CE,A
+698,P1,04/09/2022,Natal,RN,A
+699,P1,04/09/2022,Itaquaquecetuba,SP,A
+700,P1,04/09/2022,São Paulo,SP,B
+701,P1,04/09/2022,Nossa Senhora da Glória,SE,B
+702,P1,04/09/2022,Itaporã,MS,B
+703,P1,04/09/2022,São Domingos do Araguaia,PA,B
+704,P1,04/09/2022,Guarujá,SP,B
+705,P1,04/09/2022,Pirambu,SE,A
+706,P1,04/09/2022,Pomerode,SC,B
+707,P1,04/09/2022,Passo de Camaragibe,AL,B
+708,P1,04/09/2022,Pracuúba,AP,B
+709,P1,04/09/2022,Ji-Paraná,RO,B
+710,P1,04/09/2022,Carapicuíba,SP,A
+711,P1,04/09/2022,Riachão do Bacamarte,PB,A
+712,P1,04/09/2022,Itabaiana,SE,A
+713,P1,04/09/2022,São Miguel Arcanjo,SP,B
+714,P1,04/09/2022,Itabela,BA,B
+715,P1,04/09/2022,Palmeira dos Índios,AL,B
+716,P1,04/09/2022,Sertânia,PE,A
+717,P1,04/09/2022,Senador Guiomard,AC,A
+718,P1,04/09/2022,Vila Velha,ES,B
+719,P1,04/09/2022,Rio de Janeiro,RJ,A
+720,P1,04/09/2022,Água Limpa,GO,B
+721,P1,04/09/2022,Flor do Sertão,SC,A
+722,P1,04/09/2022,Goiânia,GO,A
+723,P1,04/09/2022,Santa Rita,PB,A
+724,P1,04/09/2022,Serra Nova Dourada,MT,B
+725,P1,04/09/2022,Itajubá,MG,B
+726,P1,04/09/2022,Itapevi,SP,A
+727,P1,04/09/2022,Placas,PA,A
+728,P1,04/09/2022,Jaboatão dos Guararapes,PE,B
+729,P1,04/09/2022,Arapiraca,AL,A
+730,P1,04/09/2022,São Bernardino,SC,B
+731,P1,04/09/2022,Xambrê,PR,A
+732,P1,04/09/2022,Arapeí,SP,B
+733,P1,04/09/2022,Duas Barras,RJ,B
+734,P1,04/09/2022,Rio Branco,AC,B
+735,P1,04/09/2022,São Miguel Arcanjo,SP,B
+736,P1,04/09/2022,Itapecerica da Serra,SP,A
+737,P1,04/09/2022,Nova Mutum,MT,B
+738,P1,04/09/2022,Pompéu,MG,A
+739,P1,04/09/2022,Brasília,DF,A
+740,P1,04/09/2022,Consolação,MG,A
+741,P1,04/09/2022,Nova Santa Rita,PI,B
+742,P1,04/09/2022,Itapecerica da Serra,SP,A
+743,P1,04/09/2022,Antônio Cardoso,BA,A
+744,P1,04/09/2022,Pacaembu,SP,A
+745,P1,04/09/2022,Zé Doca,MA,A
+746,P1,04/09/2022,Branquinha,AL,B
+747,P1,04/09/2022,Juramento,MG,A
+748,P1,04/09/2022,Forquilha,CE,A
+749,P1,04/09/2022,Santa Isabel do Rio Negro,AM,A
+750,P1,04/09/2022,Jericó,PB,A
+751,P1,04/09/2022,Recife,PE,A
+752,P1,04/09/2022,Rio de Janeiro,RJ,B
+753,P1,04/09/2022,São Francisco de Assis,RS,B
+754,P1,04/09/2022,Santa Cruz da Baixa Verde,PE,B
+755,P1,04/09/2022,Laranjal do Jari,AP,A
+756,P1,04/09/2022,Maceió,AL,A
+757,P1,04/09/2022,Trombudo Central,SC,A
+758,P1,04/09/2022,Carlópolis,PR,B
+759,P1,04/09/2022,Manaus,AM,B
+760,P1,04/09/2022,Maria Helena,PR,A
+761,P1,04/09/2022,Manaus,AM,B
+762,P1,04/09/2022,Ribeirão Pires,SP,A
+763,P1,04/09/2022,Porto Walter,AC,B
+764,P1,04/09/2022,Serra do Mel,RN,A
+765,P1,04/09/2022,Ribeirão Pires,SP,B
+766,P1,04/09/2022,Bento Gonçalves,RS,B
+767,P1,04/09/2022,Iguatemi,MS,A
+768,P1,04/09/2022,Brejetuba,ES,A
+769,P1,04/09/2022,Abaetetuba,PA,B
+770,P1,04/09/2022,Rio de Janeiro,RJ,B
+771,P1,04/09/2022,Rio das Ostras,RJ,B
+772,P1,04/09/2022,Itapipoca,CE,A
+773,P1,04/09/2022,Fátima do Sul,MS,A
+774,P1,04/09/2022,Barcarena,PA,B
+775,P1,04/09/2022,Monte Santo de Minas,MG,A
+776,P1,04/09/2022,Petrolândia,PE,A
+777,P1,04/09/2022,Campo Alegre,AL,B
+778,P1,04/09/2022,São Paulo,SP,A
+779,P1,04/09/2022,Ouro Preto do Oeste,RO,B
+780,P1,04/09/2022,Piúma,ES,B
+781,P1,04/09/2022,Pedro Gomes,MS,B
+782,P1,04/09/2022,Caratinga,MG,A
+783,P1,04/09/2022,Tatuí,SP,B
+784,P1,04/09/2022,Manaquiri,AM,A
+785,P1,04/09/2022,Castanhal,PA,B
+786,P1,04/09/2022,João Pessoa,PB,A
+787,P1,04/09/2022,Pracuúba,AP,B
+788,P1,04/09/2022,Itabaiana,PB,A
+789,P1,04/09/2022,Recife,PE,A
+790,P1,04/09/2022,Canguçu,RS,A
+791,P1,04/09/2022,Nossa Senhora de Lourdes,SE,B
+792,P1,04/09/2022,Tuiuti,SP,A
+793,P1,04/09/2022,Vilhena,RO,A
+794,P1,04/09/2022,Junqueirópolis,SP,B
+795,P1,04/09/2022,Porto Walter,AC,B
+796,P1,04/09/2022,Borborema,PB,A
+797,P1,04/09/2022,Aparecida de Goiânia,GO,B
+798,P1,04/09/2022,Angelândia,MG,A
+799,P1,04/09/2022,Oiapoque,AP,B
+800,P1,04/09/2022,Garuva,SC,A
+801,P1,04/09/2022,Alto Alegre,RR,B
+802,P1,04/09/2022,Varzedo,BA,A
+803,P1,04/09/2022,Rio das Ostras,RJ,B
+804,P1,04/09/2022,Capela,AL,A
+805,P1,04/09/2022,Cubatão,SP,A
+806,P1,04/09/2022,Joinville,SC,B
+807,P1,04/09/2022,Piraquara,PR,A
+808,P1,04/09/2022,Nísia Floresta,RN,B
+809,P1,04/09/2022,Tijucas do Sul,PR,B
+810,P1,04/09/2022,Pimenteiras,PI,A
+811,P1,04/09/2022,Porto Grande,AP,A
+812,P1,04/09/2022,Xapuri,AC,A
+813,P1,04/09/2022,Itueta,MG,A
+814,P1,04/09/2022,Maravilha,AL,B
+815,P1,04/09/2022,Santa Cruz de Salinas,MG,B
+816,P1,04/09/2022,Palmas,TO,B
+817,P1,04/09/2022,Macapá,AP,B
+818,P1,04/09/2022,São Paulo,SP,A
+819,P1,04/09/2022,Manaus,AM,A
+820,P1,04/09/2022,Aquidabã,SE,A
+821,P1,04/09/2022,Ji-Paraná,RO,A
+822,P1,04/09/2022,Flor do Sertão,SC,B
+823,P1,04/09/2022,Maceió,AL,B
+824,P1,04/09/2022,Vilhena,RO,B
+825,P1,04/09/2022,Petrolina,PE,A
+826,P1,04/09/2022,Assis,SP,B
+827,P1,04/09/2022,Floresta do Araguaia,PA,A
+828,P1,04/09/2022,Arapiraca,AL,A
+829,P1,04/09/2022,Jandaia,GO,A
+830,P1,04/09/2022,Salvador,BA,B
+831,P1,04/09/2022,Sidrolândia,MS,A
+832,P1,04/09/2022,Itapema,SC,B
+833,P1,04/09/2022,Ribeirão Preto,SP,A
+834,P1,04/09/2022,Novo Mundo,MT,B
+835,P1,04/09/2022,Itaguaí,RJ,B
+836,P1,04/09/2022,Sítio do Quinto,BA,A
+837,P1,04/09/2022,Palmas,TO,A
+838,P1,04/09/2022,Campo Grande,MS,B
+839,P1,04/09/2022,Vale de São Domingos,MT,B
+840,P1,04/09/2022,Caxambu do Sul,SC,B
+841,P1,04/09/2022,Campina do Monte Alegre,SP,B
+842,P1,04/09/2022,Trairi,CE,A
+843,P1,04/09/2022,Pombal,PB,A
+844,P1,04/09/2022,Manaquiri,AM,B
+845,P1,04/09/2022,Bujari,AC,B
+846,P1,04/09/2022,Campo Formoso,BA,A
+847,P1,04/09/2022,Belford Roxo,RJ,A
+848,P1,04/09/2022,Sena Madureira,AC,B
+849,P1,04/09/2022,Aparecida do Taboado,MS,A
+850,P1,04/09/2022,Colombo,PR,A
+851,P1,04/09/2022,Bayeux,PB,A
+852,P1,04/09/2022,Manaus,AM,B
+853,P1,04/09/2022,Tucuruí,PA,A
+854,P1,04/09/2022,Camapuã,MS,A
+855,P1,04/09/2022,São Miguel Arcanjo,SP,A
+856,P1,04/09/2022,São Miguel Arcanjo,SP,B
+857,P1,04/09/2022,São Paulo,SP,B
+858,P1,04/09/2022,Lago da Pedra,MA,A
+859,P1,04/09/2022,Júlio Mesquita,SP,B
+860,P1,04/09/2022,Macapá,AP,A
+861,P1,04/09/2022,Palmitinho,RS,A
+862,P1,04/09/2022,Joca Marques,PI,A
+863,P1,04/09/2022,Guaraí,TO,A
+864,P1,04/09/2022,São Paulo,SP,A
+865,P1,04/09/2022,Nova Andradina,MS,A
+866,P1,04/09/2022,Limeira,SP,A
+867,P1,04/09/2022,Santana do Maranhão,MA,B
+868,P1,04/09/2022,Nova Friburgo,RJ,B
+869,P1,04/09/2022,Pimenta Bueno,RO,B
+870,P1,04/09/2022,Macapá,AP,A
+871,P1,04/09/2022,Tupirama,TO,A
+872,P1,04/09/2022,Passo do Sobrado,RS,B
+873,P1,04/09/2022,Corumbá,MS,B
+874,P1,04/09/2022,Manaquiri,AM,B
+875,P1,04/09/2022,Itaquitinga,PE,A
+876,P1,04/09/2022,Nilópolis,RJ,A
+877,P1,04/09/2022,São Paulo,SP,B
+878,P1,04/09/2022,Dourados,MS,A
+879,P1,04/09/2022,Mossoró,RN,A
+880,P1,04/09/2022,Uberaba,MG,A
+881,P1,04/09/2022,Rio das Ostras,RJ,B
+882,P1,04/09/2022,Maceió,AL,A
+883,P1,04/09/2022,Forquilha,CE,A
+884,P1,04/09/2022,Botucatu,SP,A
+885,P1,04/09/2022,Belford Roxo,RJ,A
+886,P1,04/09/2022,Ponta Porã,MS,B
+887,P1,04/09/2022,Guarujá,SP,A
+888,P1,04/09/2022,Brasília,DF,B
+889,P1,04/09/2022,São José da Tapera,AL,B
+890,P1,04/09/2022,São Sebastião do Passé,BA,A
+891,P1,04/09/2022,União,PI,B
+892,P1,04/09/2022,Macuco,RJ,B
+893,P1,04/09/2022,Morada Nova,CE,A
+894,P1,04/09/2022,São Paulo,SP,A
+895,P1,04/09/2022,Juazeiro do Norte,CE,B
+896,P1,04/09/2022,Berizal,MG,B
+897,P1,04/09/2022,Valença,BA,A
+898,P1,04/09/2022,Rio Claro,SP,A
+899,P1,04/09/2022,Feira da Mata,BA,A
+900,P1,04/09/2022,Belo Horizonte,MG,A
+901,P1,04/09/2022,Ijuí,RS,B
+902,P1,04/09/2022,São João da Serra,PI,A
+903,P1,04/09/2022,Quirinópolis,GO,A
+904,P1,04/09/2022,Ubá,MG,A
+905,P1,04/09/2022,Cachoeira Paulista,SP,A
+906,P1,04/09/2022,Extremoz,RN,A
+907,P1,04/09/2022,Paraíso do Tocantins,TO,A
+908,P1,04/09/2022,Mogi Guaçu,SP,A
+909,P1,04/09/2022,Anicuns,GO,B
+910,P1,04/09/2022,Parnaíba,PI,A
+911,P1,04/09/2022,Salinas da Margarida,BA,A
+912,P1,04/09/2022,Rio de Janeiro,RJ,B
+913,P1,04/09/2022,Trindade,GO,B
+914,P1,04/09/2022,Vila Velha,ES,B
+915,P1,04/09/2022,São Luiz,RR,B
+916,P1,04/09/2022,Ouricuri,PE,A
+917,P1,04/09/2022,São José do Rio Preto,SP,B
+918,P1,04/09/2022,Anadia,AL,B
+919,P1,04/09/2022,Porto Walter,AC,A
+920,P1,04/09/2022,Primavera do Leste,MT,B
+921,P1,04/09/2022,Ribeirão Preto,SP,A
+922,P1,04/09/2022,Forquilha,CE,A
+923,P1,04/09/2022,Fortaleza,CE,B
+924,P1,04/09/2022,Santa Teresa,ES,B
+925,P1,04/09/2022,Buíque,PE,B
+926,P1,04/09/2022,Pracuúba,AP,A
+927,P1,04/09/2022,Guarujá,SP,B
+928,P1,04/09/2022,São Miguel do Guaporé,RO,B
+929,P1,04/09/2022,Condado,PB,B
+930,P1,04/09/2022,Brasília,DF,A
+931,P1,04/09/2022,Pilar,AL,A
+932,P1,04/09/2022,São Gonçalo,RJ,A
+933,P1,04/09/2022,Rio Largo,AL,A
+934,P1,04/09/2022,Abreu e Lima,PE,A
+935,P1,04/09/2022,Sobradinho,BA,A
+936,P1,04/09/2022,Oeiras,PI,A
+937,P1,04/09/2022,Valente,BA,A
+938,P1,04/09/2022,Marialva,PR,B
+939,P1,04/09/2022,Gameleira,PE,B
+940,P1,04/09/2022,Palmas,TO,B
+941,P1,04/09/2022,Caxias do Sul,RS,B
+942,P1,04/09/2022,São José do Egito,PE,B
+943,P1,04/09/2022,Monte Belo,MG,A
+944,P1,04/09/2022,Minduri,MG,B
+945,P1,04/09/2022,Cavalcante,GO,B
+946,P1,04/09/2022,Comendador Levy Gasparian,RJ,B
+947,P1,04/09/2022,Manaquiri,AM,A
+948,P1,04/09/2022,Juarina,TO,A
+949,P1,04/09/2022,Guarabira,PB,A
+950,P1,04/09/2022,Itaubal,AP,B
+951,P1,04/09/2022,Itamogi,MG,A
+952,P1,04/09/2022,Aracaju,SE,A
+953,P1,04/09/2022,Cabo Frio,RJ,A
+954,P1,04/09/2022,Serra,ES,A
+955,P1,04/09/2022,Murici,AL,A
+956,P1,04/09/2022,Iguatu,CE,A
+957,P1,04/09/2022,Teresina,PI,A
+958,P1,04/09/2022,Theobroma,RO,B
+959,P1,04/09/2022,Curitiba,PR,B
+960,P1,04/09/2022,Rafard,SP,B
+961,P1,04/09/2022,Bom Jesus,PI,A
+962,P1,04/09/2022,Quebrangulo,AL,B
+963,P1,04/09/2022,Ananindeua,PA,B
+964,P1,04/09/2022,Estância,SE,A
+965,P1,04/09/2022,Senador Canedo,GO,A
+966,P1,04/09/2022,Senador Sá,CE,B
+967,P1,04/09/2022,Mariluz,PR,B
+968,P1,04/09/2022,Forquilha,CE,B
+969,P1,04/09/2022,Anicuns,GO,B
+970,P1,04/09/2022,Santana do Maranhão,MA,A
+971,P1,04/09/2022,Ipu,CE,A
+972,P1,04/09/2022,Caucaia,CE,B
+973,P1,04/09/2022,Loanda,PR,B
+974,P1,04/09/2022,Simões,PI,B
+975,P1,04/09/2022,Brasília,DF,A
+976,P1,04/09/2022,Bayeux,PB,B
+977,P1,04/09/2022,Doutor Severiano,RN,B
+978,P1,04/09/2022,Rio das Ostras,RJ,B
+979,P1,04/09/2022,Divinolândia de Minas,MG,A
+980,P1,04/09/2022,Goiânia,GO,B
+981,P1,04/09/2022,Vitória,ES,A
+982,P1,04/09/2022,Poté,MG,A
+983,P1,04/09/2022,Rio das Ostras,RJ,A
+984,P1,04/09/2022,Porto Walter,AC,B
+985,P1,04/09/2022,Leopoldo de Bulhões,GO,A
+986,P1,04/09/2022,Nova Odessa,SP,B
+987,P1,04/09/2022,Luís Eduardo Magalhães,BA,B
+988,P1,04/09/2022,Santana,AP,A
+989,P1,04/09/2022,Uberlândia,MG,A
+990,P1,04/09/2022,Brasília,DF,A
+991,P1,04/09/2022,Rio Branco,AC,A
+992,P1,04/09/2022,Talismã,TO,B
+993,P1,04/09/2022,Manaus,AM,A
+994,P1,04/09/2022,Umbaúba,SE,A
+995,P1,04/09/2022,Paço do Lumiar,MA,A
+996,P1,04/09/2022,Ituverava,SP,A
+997,P1,04/09/2022,Riacho dos Machados,MG,B
+998,P1,04/09/2022,Cuiabá,MT,B
+999,P1,04/09/2022,Pedreiras,MA,B
+1000,P1,04/09/2022,Natal,RN,B
+1001,P1,04/09/2022,Luís Gomes,RN,B
+1002,P1,04/09/2022,Congonhal,MG,A
+1003,P1,04/09/2022,Aquidabã,SE,A
+1004,P1,04/09/2022,Dom Expedito Lopes,PI,A
+1005,P1,04/09/2022,Arapiraca,AL,A
+1006,P1,04/09/2022,Jóia,RS,B
+1007,P1,04/09/2022,Belmiro Braga,MG,A
+1008,P1,04/09/2022,Corumbá,MS,A
+1009,P1,04/09/2022,Santo Amaro do Maranhão,MA,A
+1010,P1,04/09/2022,Jarinu,SP,A
+1011,P1,04/09/2022,Santana,AP,B
+1012,P1,04/09/2022,Licínio de Almeida,BA,B
+1013,P1,04/09/2022,Teixeira,PB,B
+1014,P1,04/09/2022,Quatis,RJ,A
+1015,P1,04/09/2022,Indiavaí,MT,B
+1016,P1,04/09/2022,Santana,AP,B
+1017,P1,04/09/2022,Buerarema,BA,A
+1018,P1,04/09/2022,São Gonçalo,RJ,A
+1019,P1,04/09/2022,Camapuã,MS,A
+1020,P1,04/09/2022,Itapiranga,AM,B
+1021,P1,04/09/2022,Boa Vista,RR,B
+1022,P1,04/09/2022,Rio das Flores,RJ,B
+1023,P1,04/09/2022,Indaial,SC,B
+1024,P1,04/09/2022,São Paulo,SP,A
+1025,P1,04/09/2022,Palmácia,CE,A
+1026,P1,04/09/2022,Itaquitinga,PE,A
+1027,P1,04/09/2022,Anadia,AL,B
+1028,P1,04/09/2022,Alcinópolis,MS,B
+1029,P1,04/09/2022,Jericó,PB,B
+1030,P1,04/09/2022,São Paulo,SP,A
+1031,P1,04/09/2022,Palmas,TO,B
+1032,P1,04/09/2022,Maceió,AL,A
+1033,P1,04/09/2022,Francisco Morato,SP,A
+1034,P1,04/09/2022,Igarapé-Miri,PA,B
+1035,P1,04/09/2022,Campo Grande,MS,A
+1036,P1,04/09/2022,Fortaleza,CE,A
+1037,P1,04/09/2022,Juti,MS,A
+1038,P1,04/09/2022,Alvorada,RS,B
+1039,P1,04/09/2022,Contagem,MG,B
+1040,P1,04/09/2022,Arenápolis,MT,B
+1041,P1,04/09/2022,Ibirajuba,PE,A
+1042,P1,04/09/2022,Uberaba,MG,A
+1043,P1,04/09/2022,Alta Floresta D'Oeste,RO,B
+1044,P1,04/09/2022,São Luís,MA,B
+1045,P1,04/09/2022,Cipó,BA,A
+1046,P1,04/09/2022,Tanhaçu,BA,B
+1047,P1,04/09/2022,Indiavaí,MT,B
+1048,P1,04/09/2022,Rio de Janeiro,RJ,A
+1049,P1,04/09/2022,Nova Olinda do Norte,AM,A
+1050,P1,04/09/2022,Salinas da Margarida,BA,A
+1051,P1,04/09/2022,São Miguel Arcanjo,SP,A
+1052,P1,04/09/2022,Rio de Janeiro,RJ,A
+1053,P1,04/09/2022,Cabo Frio,RJ,A
+1054,P1,04/09/2022,Rio Branco,AC,B
+1055,P1,04/09/2022,Campinas,SP,B
+1056,P1,04/09/2022,Ipojuca,PE,A
+1057,P1,04/09/2022,Iaciara,GO,A
+1058,P1,04/09/2022,São Paulo,SP,A
+1059,P1,04/09/2022,Trairi,CE,B
+1060,P1,04/09/2022,São Simão,SP,B
+1061,P1,04/09/2022,Ariquemes,RO,B
+1062,P1,04/09/2022,Brasília,DF,B
+1063,P1,04/09/2022,Conceição do Lago-Açu,MA,B
+1064,P1,04/09/2022,São José dos Campos,SP,A
+1065,P1,04/09/2022,Paiçandu,PR,B
+1066,P1,04/09/2022,Macaé,RJ,A
+1067,P1,04/09/2022,Barcarena,PA,B
+1068,P1,04/09/2022,Curitiba,PR,B
+1069,P1,04/09/2022,Laranjal do Jari,AP,B
+1070,P1,04/09/2022,Capela,SE,A
+1071,P1,04/09/2022,Araguaína,TO,A
+1072,P1,04/09/2022,Macapá,AP,B
+1073,P1,04/09/2022,Boa Vista,RR,B
+1074,P1,04/09/2022,Corumbá,MS,B
+1075,P1,04/09/2022,Angra dos Reis,RJ,B
+1076,P1,04/09/2022,Maceió,AL,B
+1077,P1,04/09/2022,Palmas,TO,A
+1078,P1,04/09/2022,Pacaraima,RR,B
+1079,P1,04/09/2022,Serra Caiada,RN,A
+1080,P1,04/09/2022,Ourém,PA,A
+1081,P1,04/09/2022,Igrejinha,RS,B
+1082,P1,04/09/2022,Jundiaí,SP,A
+1083,P1,04/09/2022,Pirajuba,MG,A
+1084,P1,04/09/2022,Campestre,AL,A
+1085,P1,04/09/2022,Cachoeiro de Itapemirim,ES,A
+1086,P1,04/09/2022,Maceió,AL,A
+1087,P1,04/09/2022,Vila Valério,ES,B
+1088,P1,04/09/2022,Mossoró,RN,A
+1089,P1,04/09/2022,Biguaçu,SC,B
+1090,P1,04/09/2022,Brasília,DF,B
+1091,P1,04/09/2022,Cotriguaçu,MT,B
+1092,P1,04/09/2022,São João dos Patos,MA,B
+1093,P1,04/09/2022,Fortaleza,CE,A
+1094,P1,04/09/2022,Francisco Sá,MG,B
+1095,P1,04/09/2022,São João Batista,SC,B
+1096,P1,04/09/2022,Bezerros,PE,B
+1097,P1,04/09/2022,Penedo,AL,B
+1098,P1,04/09/2022,Monte das Gameleiras,RN,A
+1099,P1,04/09/2022,Canarana,BA,B
+1100,P1,04/09/2022,Sapopema,PR,A
+1101,P1,04/09/2022,Beneditinos,PI,A
+1102,P1,04/09/2022,Brasília,DF,B
+1103,P1,04/09/2022,Cacoal,RO,B
+1104,P1,04/09/2022,Maracaju,MS,A
+1105,P1,04/09/2022,Sonora,MS,B
+1106,P1,04/09/2022,Vera,MT,B
+1107,P1,04/09/2022,Ministro Andreazza,RO,B
+1108,P1,04/09/2022,Natal,RN,A
+1109,P1,04/09/2022,Ilhéus,BA,A
+1110,P1,04/09/2022,Suzano,SP,B
+1111,P1,04/09/2022,Santa Luzia,MG,B
+1112,P1,04/09/2022,São José das Palmeiras,PR,B
+1113,P1,04/09/2022,Porto Alegre,RS,B
+1114,P1,04/09/2022,Cuiabá,MT,B
+1115,P1,04/09/2022,Ipixuna,AM,B
+1116,P1,04/09/2022,Jericó,PB,B
+1117,P1,04/09/2022,Porto Walter,AC,B
+1118,P1,04/09/2022,Paragominas,PA,B
+1119,P1,04/09/2022,Tartarugalzinho,AP,B
+1120,P1,04/09/2022,Lago da Pedra,MA,B
+1121,P1,04/09/2022,Barcarena,PA,B
+1122,P1,04/09/2022,Silves,AM,A
+1123,P1,04/09/2022,Guarujá,SP,B
+1124,P1,04/09/2022,São Roque do Canaã,ES,A
+1125,P1,04/09/2022,Imbuia,SC,B
+1126,P1,04/09/2022,Ji-Paraná,RO,B
+1127,P1,04/09/2022,Tapauá,AM,B
+1128,P1,04/09/2022,Pimenta Bueno,RO,B
+1129,P1,04/09/2022,Pilar do Sul,SP,B
+1130,P1,04/09/2022,Brejo Grande do Araguaia,PA,A
+1131,P1,04/09/2022,Paulino Neves,MA,B
+1132,P1,04/09/2022,Araçás,BA,A
+1133,P1,04/09/2022,Cariacica,ES,B
+1134,P1,04/09/2022,Mata Verde,MG,B
+1135,P1,04/09/2022,Salinas da Margarida,BA,B
+1136,P1,04/09/2022,Governador Lindenberg,ES,A
+1137,P1,04/09/2022,Augustinópolis,TO,B
+1138,P1,04/09/2022,Jaguariúna,SP,A
+1139,P1,04/09/2022,Tabaporã,MT,B
+1140,P1,04/09/2022,Natal,RN,A
+1141,P1,04/09/2022,Canudos,BA,A
+1142,P1,04/09/2022,Conceição do Pará,MG,B
+1143,P1,04/09/2022,São Bento do Una,PE,B
+1144,P1,04/09/2022,Porto Alegre,RS,B
+1145,P1,04/09/2022,Ponto Belo,ES,B
+1146,P1,04/09/2022,Ipecaetá,BA,B
+1147,P1,04/09/2022,Porto Walter,AC,B
+1148,P1,04/09/2022,Carinhanha,BA,A
+1149,P1,04/09/2022,Monções,SP,A
+1150,P1,04/09/2022,Malta,PB,A
+1151,P1,04/09/2022,Caiuá,SP,B
+1152,P1,04/09/2022,Feijó,AC,B
+1153,P1,04/09/2022,Girau do Ponciano,AL,A
+1154,P1,04/09/2022,Macapá,AP,A
+1155,P1,04/09/2022,Limoeiro de Anadia,AL,B
+1156,P1,04/09/2022,Catuípe,RS,A
+1157,P1,04/09/2022,Acará,PA,A
+1158,P1,04/09/2022,#N/D,#N/D,#N/D
+1159,P1,04/09/2022,São Miguel Arcanjo,SP,A
+1160,P1,04/09/2022,Santa Inês,MA,A
+1161,P1,04/09/2022,Natal,RN,A
+1162,P1,04/09/2022,Rio Branco,AC,A
+1163,P1,04/09/2022,Imperatriz,MA,A
+1164,P1,04/09/2022,Goianésia,GO,B
+1165,P1,04/09/2022,Palmeira dos Índios,AL,A
+1166,P1,04/09/2022,Porto Velho,RO,B
+1167,P1,04/09/2022,Alto Alegre,RR,B
+1168,P1,04/09/2022,Olho d'Água,PB,A
+1169,P1,04/09/2022,Arneiroz,CE,B
+1170,P1,04/09/2022,Brasília,DF,A
+1171,P1,04/09/2022,Caiçara do Rio do Vento,RN,A
+1172,P1,04/09/2022,Conceição do Rio Verde,MG,A
+1173,P1,04/09/2022,Batatais,SP,A
+1174,P1,04/09/2022,Marabá,PA,A
+1175,P1,04/09/2022,São José do Rio Preto,SP,B
+1176,P1,04/09/2022,Rio Crespo,RO,B
+1177,P1,04/09/2022,Garanhuns,PE,A
+1178,P1,04/09/2022,Olinda,PE,A
+1179,P1,04/09/2022,Orlândia,SP,A
+1180,P1,04/09/2022,São Miguel Arcanjo,SP,B
+1181,P1,04/09/2022,Nova Iguaçu,RJ,A
+1182,P1,04/09/2022,Lagoa dos Patos,MG,B
+1183,P1,04/09/2022,Curral de Cima,PB,A
+1184,P1,04/09/2022,Brasília,DF,A
+1185,P1,04/09/2022,Caraguatatuba,SP,B
+1186,P1,04/09/2022,Ibiraci,MG,A
+1187,P1,04/09/2022,Areal,RJ,B
+1188,P1,04/09/2022,Alto Alegre,RR,B
+1189,P1,04/09/2022,Baixo Guandu,ES,A
+1190,P1,04/09/2022,Araújos,MG,A
+1191,P1,04/09/2022,Ouro Fino,MG,B
+1192,P1,04/09/2022,Calumbi,PE,B
+1193,P1,04/09/2022,Nova Andradina,MS,B
+1194,P1,04/09/2022,Orós,CE,A
+1195,P1,04/09/2022,Macapá,AP,A
+1196,P1,04/09/2022,Carpina,PE,A
+1197,P1,04/09/2022,Santana da Boa Vista,RS,B
+1198,P1,04/09/2022,São Miguel Arcanjo,SP,B
+1199,P1,04/09/2022,Natal,RN,A
+1200,P1,04/09/2022,Urussanga,SC,B
+1201,P1,04/09/2022,Fartura,SP,A
+1202,P1,04/09/2022,Clevelândia,PR,B
+1203,P1,04/09/2022,Granito,PE,A
+1204,P1,04/09/2022,São Miguel Arcanjo,SP,A
+1205,P1,04/09/2022,Cametá,PA,A
+1206,P1,04/09/2022,Brasília,DF,B
+1207,P1,04/09/2022,Rio das Ostras,RJ,A
+1208,P1,04/09/2022,Ponte Alta do Tocantins,TO,B
+1209,P1,04/09/2022,Manaquiri,AM,B
+1210,P1,04/09/2022,Campo Grande,MS,A
+1211,P1,04/09/2022,Campo Grande,MS,B
+1212,P1,04/09/2022,Limoeiro de Anadia,AL,B
+1213,P1,04/09/2022,Barão de Cocais,MG,A
+1214,P1,04/09/2022,Itaquitinga,PE,A
+1215,P1,04/09/2022,João Pessoa,PB,B
+1216,P1,04/09/2022,Douradina,MS,B
+1217,P1,04/09/2022,Pau dos Ferros,RN,B
+1218,P1,04/09/2022,São Francisco de Assis,RS,B
+1219,P1,04/09/2022,São Pedro do Ivaí,PR,B
+1220,P1,04/09/2022,Nova América da Colina,PR,B
+1221,P1,04/09/2022,Lençóis Paulista,SP,A
+1222,P1,04/09/2022,Princesa Isabel,PB,A
+1223,P1,04/09/2022,Fortaleza,CE,A
+1224,P1,04/09/2022,Cidade Ocidental,GO,B
+1225,P1,04/09/2022,Orós,CE,A
+1226,P1,04/09/2022,Caiabu,SP,B
+1227,P1,04/09/2022,São Joaquim,SC,A
+1228,P1,04/09/2022,São Paulo,SP,A
+1229,P1,04/09/2022,Goianésia,GO,B
+1230,P1,04/09/2022,São José dos Basílios,MA,A
+1231,P1,04/09/2022,Brasília de Minas,MG,B
+1232,P1,04/09/2022,Aiquara,BA,B
+1233,P1,04/09/2022,Mineiros,GO,B
+1234,P1,04/09/2022,Joaçaba,SC,B
+1235,P1,04/09/2022,Itaboraí,RJ,B
+1236,P1,04/09/2022,Bom Jesus do Itabapoana,RJ,B
+1237,P1,04/09/2022,Belém,PA,B
+1238,P1,04/09/2022,Bom Jesus do Amparo,MG,B
+1239,P1,04/09/2022,Belo Horizonte,MG,B
+1240,P1,04/09/2022,São Miguel Arcanjo,SP,A
+1241,P1,04/09/2022,Iguaí,BA,A
+1242,P1,04/09/2022,Niterói,RJ,B
+1243,P1,04/09/2022,Porto Walter,AC,B
+1244,P1,04/09/2022,Goiânia,GO,B
+1245,P1,04/09/2022,Mossoró,RN,A
+1246,P1,04/09/2022,Porto Walter,AC,B
+1247,P1,04/09/2022,Capanema,PR,A
+1248,P1,04/09/2022,Primavera do Leste,MT,A
+1249,P1,04/09/2022,Medianeira,PR,B
+1250,P1,04/09/2022,Vitória,ES,B
+1251,P1,04/09/2022,Marília,SP,A
+1252,P1,04/09/2022,Laranjal do Jari,AP,B
+1253,P1,04/09/2022,Manaus,AM,A
+1254,P1,04/09/2022,Blumenau,SC,B
+1255,P1,04/09/2022,Rio Quente,GO,A
+1256,P1,04/09/2022,Manaquiri,AM,B
+1257,P1,04/09/2022,Ibititá,BA,A
+1258,P1,04/09/2022,São Sebastião do Paraíso,MG,A
+1259,P1,04/09/2022,Itaíba,PE,B
+1260,P1,04/09/2022,Ipixuna do Pará,PA,A
+1261,P1,04/09/2022,Anajás,PA,B
+1262,P1,04/09/2022,Manaquiri,AM,B
+1263,P1,04/09/2022,Ouro Fino,MG,B
+1264,P1,04/09/2022,Cotriguaçu,MT,B
+1265,P1,04/09/2022,Tibagi,PR,B
+1266,P1,04/09/2022,Nova Alvorada do Sul,MS,B
+1267,P1,04/09/2022,Santo Augusto,RS,B
+1268,P1,04/09/2022,Xapuri,AC,B
+1269,P1,04/09/2022,Brasília,DF,A
+1270,P1,04/09/2022,Ipupiara,BA,A
+1271,P1,04/09/2022,Limoeiro de Anadia,AL,A
+1272,P1,04/09/2022,Belém,PA,A
+1273,P1,04/09/2022,São Miguel Arcanjo,SP,B
+1274,P1,04/09/2022,Cabo de Santo Agostinho,PE,B
+1275,P1,04/09/2022,Laranjeiras,SE,A
+1276,P1,04/09/2022,Conceição da Barra de Minas,MG,B
+1277,P1,04/09/2022,Guaçuí,ES,B
+1278,P1,04/09/2022,Alto Alegre dos Parecis,RO,B
+1279,P1,04/09/2022,Trindade,GO,B
+1280,P1,04/09/2022,Feliz Natal,MT,B
+1281,P1,04/09/2022,Sertãozinho,SP,A
+1282,P1,04/09/2022,Campinas,SP,B
+1283,P1,04/09/2022,Macapá,AP,A
+1284,P1,04/09/2022,Banzaê,BA,A
+1285,P1,04/09/2022,São José dos Basílios,MA,B
+1286,P1,04/09/2022,Trombudo Central,SC,B
+1287,P1,04/09/2022,Rio Branco,AC,A
+1288,P1,04/09/2022,Cafarnaum,BA,A
+1289,P1,04/09/2022,Porto Feliz,SP,B
+1290,P1,04/09/2022,Salvador,BA,B
+1291,P1,04/09/2022,Rolim de Moura,RO,A
+1292,P1,04/09/2022,Nova Canaã do Norte,MT,B
+1293,P1,04/09/2022,Brasília,DF,B
+1294,P1,04/09/2022,Brasília,DF,B
+1295,P1,04/09/2022,Goiânia,GO,A
+1296,P1,04/09/2022,Sairé,PE,A
+1297,P1,04/09/2022,Doutor Severiano,RN,A
+1298,P1,04/09/2022,Limoeiro de Anadia,AL,A
+1299,P1,04/09/2022,Santa Albertina,SP,A
+1300,P1,04/09/2022,Fortaleza,CE,B
+1301,P1,04/09/2022,Belmiro Braga,MG,A
+1302,P1,04/09/2022,Alto Alegre dos Parecis,RO,B
+1303,P1,04/09/2022,Visconde do Rio Branco,MG,A
+1304,P1,04/09/2022,Riachinho,TO,B
+1305,P1,04/09/2022,Santo Antônio do Leverger,MT,A
+1306,P1,04/09/2022,Augustinópolis,TO,A
+1307,P1,04/09/2022,Brasília,DF,B
+1308,P1,04/09/2022,São Miguel Arcanjo,SP,B
+1309,P1,04/09/2022,São José do Vale do Rio Preto,RJ,A
+1310,P1,04/09/2022,Jerônimo Monteiro,ES,A
+1311,P1,04/09/2022,Palmas de Monte Alto,BA,A
+1312,P1,04/09/2022,Rio do Fogo,RN,A
+1313,P1,04/09/2022,Serra,ES,B
+1314,P1,04/09/2022,Ilha das Flores,SE,A
+1315,P1,04/09/2022,Jacareí,SP,B
+1316,P1,04/09/2022,Vitória do Mearim,MA,B
+1317,P1,04/09/2022,Rio Branco,AC,B
+1318,P1,04/09/2022,Florínea,SP,A
+1319,P1,04/09/2022,Brasília,DF,B
+1320,P1,04/09/2022,Piracicaba,SP,B
+1321,P1,04/09/2022,Laranjal do Jari,AP,B
+1322,P1,04/09/2022,Salinas da Margarida,BA,A
+1323,P1,04/09/2022,Camapuã,MS,A
+1324,P1,04/09/2022,Petrópolis,RJ,B
+1325,P1,04/09/2022,Itapecuru Mirim,MA,B
+1326,P1,04/09/2022,Brasília,DF,B
+1327,P1,04/09/2022,Rondonópolis,MT,B
+1328,P1,04/09/2022,Ribeirão Pires,SP,A
+1329,P1,04/09/2022,São Sebastião do Anta,MG,A
+1330,P1,04/09/2022,Palmas,TO,B
+1331,P1,04/09/2022,Arapiraca,AL,A
+1332,P1,04/09/2022,Inhangapi,PA,B
+1333,P1,04/09/2022,Francisco Alves,PR,A
+1334,P1,04/09/2022,Lagarto,SE,A
+1335,P1,04/09/2022,Alto Alegre,RR,A
+1336,P1,04/09/2022,Faxinalzinho,RS,B
+1337,P1,04/09/2022,Araquari,SC,A
+1338,P1,04/09/2022,Camalaú,PB,B
+1339,P1,04/09/2022,Monsenhor Gil,PI,A
+1340,P1,04/09/2022,Manaus,AM,A
+1341,P1,04/09/2022,Canoinhas,SC,B
+1342,P1,04/09/2022,Tanque do Piauí,PI,A
+1343,P1,04/09/2022,Divinópolis de Goiás,GO,B
+1344,P1,04/09/2022,Formosa do Oeste,PR,B
+1345,P1,04/09/2022,Campo Limpo Paulista,SP,A
+1346,P1,04/09/2022,Igarapé Grande,MA,A
+1347,P1,04/09/2022,Iramaia,BA,B
+1348,P1,04/09/2022,Caiçara,PB,A
+1349,P1,04/09/2022,Ipatinga,MG,B
+1350,P1,04/09/2022,Palmas,TO,A
+1351,P1,04/09/2022,Santa Luzia do Paruá,MA,A
+1352,P1,04/09/2022,São Paulo,SP,B
+1353,P1,04/09/2022,Guajará-Mirim,RO,B
+1354,P1,04/09/2022,Humaitá,AM,B
+1355,P1,04/09/2022,Flor do Sertão,SC,B
+1356,P1,04/09/2022,Canela,RS,B
+1357,P1,04/09/2022,Quaraí,RS,A
+1358,P1,04/09/2022,Boa Vista,RR,B
+1359,P1,04/09/2022,Pimenta Bueno,RO,B
+1360,P1,04/09/2022,Campo Maior,PI,A
+1361,P1,04/09/2022,Boa Vista do Tupim,BA,A
+1362,P1,04/09/2022,Limeira,SP,A
+1363,P1,04/09/2022,Araguaína,TO,A
+1364,P1,04/09/2022,Araguatins,TO,A
+1365,P1,04/09/2022,Tanque do Piauí,PI,A
+1366,P1,04/09/2022,Barão de Grajaú,MA,A
+1367,P1,04/09/2022,Irati,PR,B
+1368,P1,04/09/2022,Rio de Janeiro,RJ,A
+1369,P1,04/09/2022,Canaã,MG,A
+1370,P1,04/09/2022,Rio Quente,GO,A
+1371,P1,04/09/2022,Brasília,DF,A
+1372,P1,04/09/2022,Luís Domingues,MA,B
+1373,P1,04/09/2022,Candeias,BA,B
+1374,P1,04/09/2022,Bonito de Santa Fé,PB,B
+1375,P1,04/09/2022,São Bento do Sapucaí,SP,A
+1376,P1,04/09/2022,Camapuã,MS,A
+1377,P1,04/09/2022,São Miguel Arcanjo,SP,A
+1378,P1,04/09/2022,Posse,GO,B
+1379,P1,04/09/2022,Anápolis,GO,B
+1380,P1,04/09/2022,Hortolândia,SP,A
+1381,P1,04/09/2022,Avelino Lopes,PI,B
+1382,P1,04/09/2022,Jericó,PB,B
+1383,P1,04/09/2022,Vila Velha,ES,B
+1384,P1,04/09/2022,São José da Laje,AL,A
+1385,P1,04/09/2022,Brasília,DF,B
+1386,P1,04/09/2022,Tabaporã,MT,B
+1387,P1,04/09/2022,Rio de Janeiro,RJ,B
+1388,P1,04/09/2022,Serra,ES,B
+1389,P1,04/09/2022,Acopiara,CE,A
+1390,P1,04/09/2022,Catuípe,RS,B
+1391,P1,04/09/2022,São Miguel Arcanjo,SP,A
+1392,P1,04/09/2022,Várzea Alegre,CE,A
+1393,P1,04/09/2022,Conceição de Ipanema,MG,B
+1394,P1,04/09/2022,Manaquiri,AM,B
+1395,P1,04/09/2022,São João de Meriti,RJ,B
+1396,P1,04/09/2022,Porto Velho,RO,B
+1397,P1,04/09/2022,Amorinópolis,GO,B
+1398,P1,04/09/2022,Belém,PA,A
+1399,P1,04/09/2022,Canoinhas,SC,A
+1400,P1,04/09/2022,Campinas,SP,A
+1401,P1,04/09/2022,Silveiras,SP,B
+1402,P1,04/09/2022,Nossa Senhora do Livramento,MT,A
+1403,P1,04/09/2022,Barra dos Coqueiros,SE,A
+1404,P1,04/09/2022,Santa Rita do Sapucaí,MG,B
+1405,P1,04/09/2022,Santa Inês,PB,B
+1406,P1,04/09/2022,Aracaju,SE,A
+1407,P1,04/09/2022,Brasília,DF,B
+1408,P1,04/09/2022,São Paulo,SP,A
+1409,P1,04/09/2022,Ribas do Rio Pardo,MS,B
+1410,P1,04/09/2022,Pilão Arcado,BA,A
+1411,P1,04/09/2022,São Domingos do Norte,ES,B
+1412,P1,04/09/2022,São Gabriel da Cachoeira,AM,B
+1413,P1,04/09/2022,Forquilha,CE,A
+1414,P1,04/09/2022,Ji-Paraná,RO,A
+1415,P1,04/09/2022,Cáceres,MT,B
+1416,P1,04/09/2022,Rio de Janeiro,RJ,B
+1417,P1,04/09/2022,Forquilha,CE,A
+1418,P1,04/09/2022,Mossoró,RN,A
+1419,P1,04/09/2022,Boqueirão do Piauí,PI,A
+1420,P1,04/09/2022,Laranjal do Jari,AP,B
+1421,P1,04/09/2022,Guajará,AM,B
+1422,P1,04/09/2022,Cabedelo,PB,B
+1423,P1,04/09/2022,Camapuã,MS,A
+1424,P1,04/09/2022,Amajari,RR,B
+1425,P1,04/09/2022,Pedrinhas Paulista,SP,B
+1426,P1,04/09/2022,Jacundá,PA,A
+1427,P1,04/09/2022,Tarauacá,AC,A
+1428,P1,04/09/2022,São José do Calçado,ES,B
+1429,P1,04/09/2022,Caiçara,PB,A
+1430,P1,04/09/2022,São Luiz,RR,B
+1431,P1,04/09/2022,Mossoró,RN,A
+1432,P1,04/09/2022,Pracuúba,AP,A
+1433,P1,04/09/2022,Silves,AM,B
+1434,P1,04/09/2022,São Paulo,SP,A
+1435,P1,04/09/2022,Canindé de São Francisco,SE,B
+1436,P1,04/09/2022,Barra Longa,MG,B
+1437,P1,04/09/2022,Pimenta Bueno,RO,B
+1438,P1,04/09/2022,Ecoporanga,ES,B
+1439,P1,04/09/2022,Ouro Branco,RN,B
+1440,P1,04/09/2022,Uberaba,MG,A
+1441,P1,04/09/2022,Tucumã,PA,A
+1442,P1,04/09/2022,Buíque,PE,A
+1443,P1,04/09/2022,Acarape,CE,A
+1444,P1,04/09/2022,Pombos,PE,B
+1445,P1,04/09/2022,Terra Boa,PR,A
+1446,P1,04/09/2022,Lucena,PB,B
+1447,P1,04/09/2022,Itariri,SP,B
+1448,P1,04/09/2022,Brasília,DF,B
+1449,P1,04/09/2022,Terra Roxa,PR,A
+1450,P1,04/09/2022,Belo Horizonte,MG,A
+1451,P1,04/09/2022,Vitória da Conquista,BA,A
+1452,P1,04/09/2022,Macapá,AP,A
+1453,P1,04/09/2022,Vanini,RS,A
+1454,P1,04/09/2022,Águas Lindas de Goiás,GO,A
+1455,P1,04/09/2022,Lagoa da Confusão,TO,A
+1456,P1,04/09/2022,Nova Venécia,ES,B
+1457,P1,04/09/2022,Jacaré dos Homens,AL,B
+1458,P1,04/09/2022,Praia Grande,SP,A
+1459,P1,04/09/2022,Rio Branco,AC,A
+1460,P1,04/09/2022,Rio de Janeiro,RJ,B
+1461,P1,04/09/2022,Sebastião Leal,PI,A
+1462,P1,04/09/2022,Lapão,BA,A
+1463,P1,04/09/2022,Barra do Corda,MA,A
+1464,P1,04/09/2022,Manaquiri,AM,B
+1465,P1,04/09/2022,Salvador,BA,B
+1466,P1,04/09/2022,Laranjeiras do Sul,PR,B
+1467,P1,04/09/2022,São Joaquim do Monte,PE,A
+1468,P1,04/09/2022,Guaraniaçu,PR,B
+1469,P1,04/09/2022,Pracuúba,AP,B
+1470,P1,04/09/2022,Rio do Fogo,RN,B
+1471,P1,04/09/2022,Aquidabã,SE,A
+1472,P1,04/09/2022,Cotriguaçu,MT,A
+1473,P1,04/09/2022,São Paulo,SP,B
+1474,P1,04/09/2022,Caracaraí,RR,B
+1475,P1,04/09/2022,Foz do Iguaçu,PR,B
+1476,P1,04/09/2022,Pimenta Bueno,RO,A
+1477,P1,04/09/2022,Curitiba,PR,A
+1478,P1,04/09/2022,Porto Velho,RO,B
+1479,P1,04/09/2022,Rio de Janeiro,RJ,B
+1480,P1,04/09/2022,Recife,PE,A
+1481,P1,04/09/2022,São José dos Campos,SP,B
+1482,P1,04/09/2022,Nova Andradina,MS,B
+1483,P1,04/09/2022,Rio de Janeiro,RJ,B
+1484,P1,04/09/2022,Palmas,TO,B
+1485,P1,04/09/2022,Conquista,MG,B
+1486,P1,04/09/2022,Balneário Arroio do Silva,SC,A
+1487,P1,04/09/2022,Tianguá,CE,A
+1488,P1,04/09/2022,Rio das Ostras,RJ,B
+1489,P1,04/09/2022,Biguaçu,SC,B
+1490,P1,04/09/2022,Brasília,DF,B
+1491,P1,04/09/2022,São Paulo,SP,B
+1492,P1,04/09/2022,Fátima do Sul,MS,A
+1493,P1,04/09/2022,Tabatinga,AM,B
+1494,P1,04/09/2022,Macapá,AP,A
+1495,P1,04/09/2022,Aracaju,SE,A
+1496,P1,04/09/2022,Japaratuba,SE,B
+1497,P1,04/09/2022,Mossoró,RN,B
+1498,P1,04/09/2022,São Roque,SP,B
+1499,P1,04/09/2022,Jericó,PB,B
+1500,P1,04/09/2022,Goiabeira,MG,A
+1501,P1,04/09/2022,Brasília,DF,B
+1502,P1,04/09/2022,Itu,SP,A
+1503,P1,04/09/2022,Tanque do Piauí,PI,A
+1504,P1,04/09/2022,Sapiranga,RS,A
+1505,P1,04/09/2022,Igrapiúna,BA,B
+1506,P1,04/09/2022,Porto Velho,RO,A
+1507,P1,04/09/2022,Laranjal do Jari,AP,A
+1508,P1,04/09/2022,Viçosa,AL,A
+1509,P1,04/09/2022,São João do Oeste,SC,B
+1510,P1,04/09/2022,Gravataí,RS,B
+1511,P1,04/09/2022,Novo Cabrais,RS,A
+1512,P1,04/09/2022,Uberaba,MG,A
+1513,P1,04/09/2022,São Roque,SP,B
+1514,P1,04/09/2022,Laranja da Terra,ES,A
+1515,P1,04/09/2022,Curralinho,PA,A
+1516,P1,04/09/2022,Manaquiri,AM,B
+1517,P1,04/09/2022,Montes Claros,MG,B
+1518,P1,04/09/2022,Maceió,AL,A
+1519,P1,04/09/2022,Paripueira,AL,A
+1520,P1,04/09/2022,Porto Velho,RO,B
+1521,P1,04/09/2022,Indiaroba,SE,A
+1522,P1,04/09/2022,Florianópolis,SC,B
+1523,P1,04/09/2022,João Pessoa,PB,A
+1524,P1,04/09/2022,Teutônia,RS,A
+1525,P1,04/09/2022,Caçu,GO,A
+1526,P1,04/09/2022,Florianópolis,SC,B
+1527,P1,04/09/2022,Traipu,AL,A
+1528,P1,04/09/2022,Duas Barras,RJ,B
+1529,P1,04/09/2022,Vista Alegre,RS,B
+1530,P1,04/09/2022,Amparo,PB,B
+1531,P1,04/09/2022,Conceição do Lago-Açu,MA,A
+1532,P1,04/09/2022,São Paulo,SP,B
+1533,P1,04/09/2022,Guarulhos,SP,B
+1534,P1,04/09/2022,Boa Vista do Ramos,AM,B
+1535,P1,04/09/2022,São José do Calçado,ES,B
+1536,P1,04/09/2022,Capixaba,AC,B
+1537,P1,04/09/2022,Buriti dos Montes,PI,A
+1538,P1,04/09/2022,Sena Madureira,AC,B
+1539,P1,04/09/2022,Goianorte,TO,B
+1540,P1,04/09/2022,Marabá,PA,A
+1541,P1,04/09/2022,Cuiabá,MT,B
+1542,P1,04/09/2022,Caldeirão Grande,BA,B
+1543,P1,04/09/2022,Flores de Goiás,GO,A
+1544,P1,04/09/2022,Fátima,TO,B
+1545,P1,04/09/2022,Niterói,RJ,A
+1546,P1,04/09/2022,Camapuã,MS,B
+1547,P1,04/09/2022,Rio de Janeiro,RJ,A
+1548,P1,04/09/2022,Inhumas,GO,B
+1549,P1,04/09/2022,Porto Walter,AC,B
+1550,P1,04/09/2022,Cotriguaçu,MT,B
+1551,P1,04/09/2022,Rio das Ostras,RJ,B
+1552,P1,04/09/2022,Boa Vista,RR,B
+1553,P1,04/09/2022,Cotegipe,BA,A
+1554,P1,04/09/2022,Placas,PA,B
+1555,P1,04/09/2022,São Gonçalo,RJ,B
+1556,P1,04/09/2022,Belém,PA,B
+1557,P1,04/09/2022,Várzea Grande,MT,B
+1558,P1,04/09/2022,Goiânia,GO,B
+1559,P1,04/09/2022,Timbé do Sul,SC,B
+1560,P1,04/09/2022,Ituaçu,BA,A
+1561,P1,04/09/2022,Jijoca de Jericoacoara,CE,A
+1562,P1,04/09/2022,Escada,PE,A
+1563,P1,04/09/2022,Buíque,PE,A
+1564,P1,04/09/2022,Planaltina,GO,B
+1565,P1,04/09/2022,Monte Alegre,PA,B
+1566,P1,04/09/2022,Mossoró,RN,A
+1567,P1,04/09/2022,Serra,ES,B
+1568,P1,04/09/2022,Barra,BA,A
+1569,P1,04/09/2022,São João de Iracema,SP,A
+1570,P1,04/09/2022,Riachão do Jacuípe,BA,B
+1571,P1,04/09/2022,Comendador Levy Gasparian,RJ,A
+1572,P1,04/09/2022,Bom Jardim,RJ,B
+1573,P1,04/09/2022,Camaragibe,PE,B
+1574,P1,04/09/2022,Colônia do Gurguéia,PI,A
+1575,P1,04/09/2022,Brasília,DF,B
+1576,P1,04/09/2022,Guarujá,SP,A
+1577,P1,04/09/2022,Irineópolis,SC,B
+1578,P1,04/09/2022,Rio de Janeiro,RJ,A
+1579,P1,04/09/2022,Porto Walter,AC,B
+1580,P1,04/09/2022,Milagres,BA,A
+1581,P1,04/09/2022,Itaberaba,BA,A
+1582,P1,04/09/2022,São João do Pau d'Alho,SP,B
+1583,P1,04/09/2022,Porto Walter,AC,B
+1584,P1,04/09/2022,Nanuque,MG,B
+1585,P1,04/09/2022,Caraguatatuba,SP,B
+1586,P1,04/09/2022,Maraã,AM,B
+1587,P1,04/09/2022,Quixaba,PE,B
+1588,P1,04/09/2022,Cametá,PA,B
+1589,P1,04/09/2022,Imbituva,PR,B
+1590,P1,04/09/2022,Belmiro Braga,MG,B
+1591,P1,04/09/2022,Macapá,AP,A
+1592,P1,04/09/2022,Goianésia,GO,B
+1593,P1,04/09/2022,Adrianópolis,PR,A
+1594,P1,04/09/2022,Formosa,GO,B
+1595,P1,04/09/2022,Poranga,CE,A
+1596,P1,04/09/2022,Rio dos Índios,RS,B
+1597,P1,04/09/2022,Cariacica,ES,A
+1598,P1,04/09/2022,Araguari,MG,B
+1599,P1,04/09/2022,Macuco,RJ,A
+1600,P1,04/09/2022,Santa Teresa,ES,B
+1601,P1,04/09/2022,Cunha,SP,A
+1602,P1,04/09/2022,Brasília,DF,B
+1603,P1,04/09/2022,Pracuúba,AP,A
+1604,P1,04/09/2022,Imperatriz,MA,A
+1605,P1,04/09/2022,Salinas da Margarida,BA,A
+1606,P1,04/09/2022,Orlândia,SP,A
+1607,P1,04/09/2022,Carapicuíba,SP,B
+1608,P1,04/09/2022,Anamã,AM,B
+1609,P1,04/09/2022,Terra Nova do Norte,MT,B
+1610,P1,04/09/2022,Sena Madureira,AC,B
+1611,P1,04/09/2022,Aquidabã,SE,A
+1612,P1,04/09/2022,Mairipotaba,GO,A
+1613,P1,04/09/2022,Santana,AP,B
+1614,P1,04/09/2022,Mariluz,PR,A
+1615,P1,04/09/2022,São Luís,MA,B
+1616,P1,04/09/2022,Itaúba,MT,B
+1617,P1,04/09/2022,Laranjal do Jari,AP,A
+1618,P1,04/09/2022,Piedade,SP,A
+1619,P1,04/09/2022,São Miguel Arcanjo,SP,B
+1620,P1,04/09/2022,São Paulo,SP,A
+1621,P1,04/09/2022,Lagoa da Confusão,TO,A
+1622,P1,04/09/2022,Bujari,AC,B
+1623,P1,04/09/2022,Brasília,DF,A
+1624,P1,04/09/2022,Sidrolândia,MS,B
+1625,P1,04/09/2022,Conde,BA,A
+1626,P1,04/09/2022,São Paulo,SP,A
+1627,P1,04/09/2022,Ermo,SC,A
+1628,P1,04/09/2022,São Jorge do Patrocínio,PR,B
+1629,P1,04/09/2022,Afuá,PA,A
+1630,P1,04/09/2022,Rio Branco,AC,B
+1631,P1,04/09/2022,Cocalinho,MT,A
+1632,P1,04/09/2022,Pinhão,PR,A
+1633,P1,04/09/2022,Barra do Choça,BA,A
+1634,P1,04/09/2022,Xapuri,AC,B
+1635,P1,04/09/2022,Campo Novo de Rondônia,RO,B
+1636,P1,04/09/2022,Brejetuba,ES,A
+1637,P1,04/09/2022,Guaçuí,ES,A
+1638,P1,04/09/2022,Rolândia,PR,A
+1639,P1,04/09/2022,Assis Chateaubriand,PR,A
+1640,P1,04/09/2022,Capitão,RS,B
+1641,P1,04/09/2022,Brasília,DF,B
+1642,P1,04/09/2022,Campinápolis,MT,A
+1643,P1,04/09/2022,Mangueirinha,PR,A
+1644,P1,04/09/2022,São Francisco do Oeste,RN,B
+1645,P1,04/09/2022,Luís Gomes,RN,A
+1646,P1,04/09/2022,Teixeira,PB,B
+1647,P1,04/09/2022,Colombo,PR,B
+1648,P1,04/09/2022,Camocim,CE,A
+1649,P1,04/09/2022,Montes Claros,MG,A
+1650,P1,04/09/2022,Carinhanha,BA,A
+1651,P1,04/09/2022,Rio de Janeiro,RJ,B
+1652,P1,04/09/2022,Belmiro Braga,MG,B
+1653,P1,04/09/2022,Belo Horizonte,MG,A
+1654,P1,04/09/2022,Manaquiri,AM,A
+1655,P1,04/09/2022,Fortaleza,CE,B
+1656,P1,04/09/2022,Porto Walter,AC,B
+1657,P1,04/09/2022,Barra do Bugres,MT,B
+1658,P1,04/09/2022,Pelotas,RS,A
+1659,P1,04/09/2022,Indaial,SC,B
+1660,P1,04/09/2022,Nova Glória,GO,B
+1661,P1,04/09/2022,Capixaba,AC,B
+1662,P1,04/09/2022,Laranjal do Jari,AP,B
+1663,P1,04/09/2022,Mogi das Cruzes,SP,B
+1664,P1,04/09/2022,Araguaína,TO,A
+1665,P1,04/09/2022,Natal,RN,B
+1666,P1,04/09/2022,Taperoá,PB,A
+1667,P1,04/09/2022,Tacaimbó,PE,A
+1668,P1,04/09/2022,Riacho dos Cavalos,PB,B
+1669,P1,04/09/2022,Campo Verde,MT,B
+1670,P1,04/09/2022,Alagoinha,PE,A
+1671,P1,04/09/2022,Alto Rio Novo,ES,B
+1672,P1,04/09/2022,Caiabu,SP,B
+1673,P1,04/09/2022,Autazes,AM,A
+1674,P1,04/09/2022,Brasília,DF,A
+1675,P1,04/09/2022,Vitorino Freire,MA,A
+1676,P1,04/09/2022,Santos,SP,B
+1677,P1,04/09/2022,Bauru,SP,B
+1678,P1,04/09/2022,Laranjal do Jari,AP,A
+1679,P1,04/09/2022,Frutal,MG,A
+1680,P1,04/09/2022,Rio Brilhante,MS,B
+1681,P1,04/09/2022,São Miguel Arcanjo,SP,B
+1682,P1,04/09/2022,Torres,RS,A
+1683,P1,04/09/2022,Craíbas,AL,B
+1684,P1,04/09/2022,Orlândia,SP,A
+1685,P1,04/09/2022,Passa Vinte,MG,B
+1686,P1,04/09/2022,Rio Quente,GO,B
+1687,P1,04/09/2022,Trabiju,SP,A
+1688,P1,04/09/2022,Porto Xavier,RS,B
+1689,P1,04/09/2022,Monte das Gameleiras,RN,A
+1690,P1,04/09/2022,Esperantina,PI,A
+1691,P1,04/09/2022,Camapuã,MS,B
+1692,P1,04/09/2022,Envira,AM,B
+1693,P1,04/09/2022,Guarabira,PB,B
+1694,P1,04/09/2022,Ipanema,MG,A
+1695,P1,04/09/2022,Planalto,PR,B
+1696,P1,04/09/2022,Anajás,PA,A
+1697,P1,04/09/2022,Brasília,DF,A
+1698,P1,04/09/2022,Birigui,SP,A
+1699,P1,04/09/2022,Gramado Xavier,RS,A
+1700,P1,04/09/2022,Forquilha,CE,A
+1701,P1,04/09/2022,Jericó,PB,B
+1702,P1,04/09/2022,Uruguaiana,RS,A
+1703,P1,04/09/2022,Passagem,PB,A
+1704,P1,04/09/2022,Tabuleiro do Norte,CE,B
+1705,P1,04/09/2022,Manaquiri,AM,B
+1706,P1,04/09/2022,Manaus,AM,A
+1707,P1,04/09/2022,Anápolis,GO,B
+1708,P1,04/09/2022,São Caetano do Sul,SP,A
+1709,P1,04/09/2022,Careiro,AM,A
+1710,P1,04/09/2022,São Paulo,SP,A
+1711,P1,04/09/2022,Boa Vista,RR,B
+1712,P1,04/09/2022,Rio Novo,MG,B
+1713,P1,04/09/2022,Cascavel,CE,A
+1714,P1,04/09/2022,Santa Cruz da Vitória,BA,A
+1715,P1,04/09/2022,São Domingos,SC,A
+1716,P1,04/09/2022,Palmeirópolis,TO,B
+1717,P1,04/09/2022,São José dos Basílios,MA,A
+1718,P1,04/09/2022,Brasília,DF,B
+1719,P1,04/09/2022,Mucajaí,RR,B
+1720,P1,04/09/2022,Antônio João,MS,B
+1721,P1,04/09/2022,Jardim de Piranhas,RN,A
+1722,P1,04/09/2022,Vespasiano,MG,A
+1723,P1,04/09/2022,Espírito Santo do Pinhal,SP,B
+1724,P1,04/09/2022,Carira,SE,A
+1725,P1,04/09/2022,Santo Amaro das Brotas,SE,A
+1726,P1,04/09/2022,São Gonçalo,RJ,B
+1727,P1,04/09/2022,Salgado,SE,A
+1728,P1,04/09/2022,Talismã,TO,A
+1729,P1,04/09/2022,Manaus,AM,A
+1730,P1,04/09/2022,Vila Pavão,ES,B
+1731,P1,04/09/2022,General Maynard,SE,A
+1732,P1,04/09/2022,São Paulo,SP,A
+1733,P1,04/09/2022,Dilermando de Aguiar,RS,A
+1734,P1,04/09/2022,Cabo de Santo Agostinho,PE,B
+1735,P1,04/09/2022,Brasília,DF,A
+1736,P1,04/09/2022,Euclides da Cunha,BA,A
+1737,P1,04/09/2022,Ilha Solteira,SP,A
+1738,P1,04/09/2022,Porto Alegre,RS,A
+1739,P1,04/09/2022,Afonso Bezerra,RN,B
+1740,P1,04/09/2022,Belém,PA,B
+1741,P1,04/09/2022,Maranhãozinho,MA,A
+1742,P1,04/09/2022,São Paulo,SP,B
+1743,P1,04/09/2022,Coronel Sapucaia,MS,B
+1744,P1,04/09/2022,São Miguel Arcanjo,SP,B
+1745,P1,04/09/2022,São José das Palmeiras,PR,B
+1746,P1,04/09/2022,Perdizes,MG,A
+1747,P1,04/09/2022,Coronel José Dias,PI,B
+1748,P1,04/09/2022,Santo André,SP,A
+1749,P1,04/09/2022,Nova Olinda,TO,A
+1750,P1,04/09/2022,Cachoeira do Sul,RS,A
+1751,P1,04/09/2022,Rio das Ostras,RJ,B
+1752,P1,04/09/2022,Uiramutã,RR,B
+1753,P1,04/09/2022,Teresina,PI,A
+1754,P1,04/09/2022,Fortaleza,CE,A
+1755,P1,04/09/2022,Porto Velho,RO,B
+1756,P1,04/09/2022,Camapuã,MS,B
+1757,P1,04/09/2022,Armação dos Búzios,RJ,A
+1758,P1,04/09/2022,Novo Gama,GO,A
+1759,P1,04/09/2022,Forquilha,CE,A
+1760,P1,04/09/2022,Boa Vista do Ramos,AM,B
+1761,P1,04/09/2022,Serra Redonda,PB,A
+1762,P1,04/09/2022,Tarauacá,AC,B
+1763,P1,04/09/2022,Salinas da Margarida,BA,A
+1764,P1,04/09/2022,Cotriguaçu,MT,B
+1765,P1,04/09/2022,Anadia,AL,B
+1766,P1,04/09/2022,Ribeirão Preto,SP,B
+1767,P1,04/09/2022,Vitória Brasil,SP,A
+1768,P1,04/09/2022,São Paulo,SP,B
+1769,P1,04/09/2022,Belmiro Braga,MG,B
+1770,P1,04/09/2022,Piripiri,PI,A
+1771,P1,04/09/2022,Ibirapitanga,BA,A
+1772,P1,04/09/2022,Talismã,TO,B
+1773,P1,04/09/2022,Jequiá da Praia,AL,A
+1774,P1,04/09/2022,Indaiatuba,SP,B
+1775,P1,04/09/2022,Taubaté,SP,B
+1776,P1,04/09/2022,Salinas da Margarida,BA,B
+1777,P1,04/09/2022,Tangará,RN,A
+1778,P1,04/09/2022,Caarapó,MS,B
+1779,P1,04/09/2022,Porto Velho,RO,B
+1780,P1,04/09/2022,Guarulhos,SP,A
+1781,P1,04/09/2022,Brasília,DF,B
+1782,P1,04/09/2022,Mirante,BA,B
+1783,P1,04/09/2022,Aquidabã,SE,A
+1784,P1,04/09/2022,Mauá,SP,B
+1785,P1,04/09/2022,Agudos do Sul,PR,A
+1786,P1,04/09/2022,Betânia do Piauí,PI,B
+1787,P1,04/09/2022,São Miguel dos Campos,AL,A
+1788,P1,04/09/2022,São João da Barra,RJ,B
+1789,P1,04/09/2022,Buenos Aires,PE,A
+1790,P1,04/09/2022,Aquidabã,SE,A
+1791,P1,04/09/2022,São Paulo,SP,A
+1792,P1,04/09/2022,Paço do Lumiar,MA,A
+1793,P1,04/09/2022,Rio Fortuna,SC,B
+1794,P1,04/09/2022,Conceição do Araguaia,PA,A
+1795,P1,04/09/2022,São José do Rio Pardo,SP,A
+1796,P1,04/09/2022,Monte Santo de Minas,MG,A
+1797,P1,04/09/2022,São Miguel Arcanjo,SP,B
+1798,P1,04/09/2022,Uberaba,MG,B
+1799,P1,04/09/2022,Ipu,CE,A
+1800,P1,04/09/2022,Uiramutã,RR,B
+1801,P1,04/09/2022,Manaquiri,AM,B
+1802,P1,04/09/2022,Pedra Branca,CE,A
+1803,P1,04/09/2022,Valentim Gentil,SP,A
+1804,P1,04/09/2022,Laranjal do Jari,AP,A
+1805,P1,04/09/2022,Maraã,AM,B
+1806,P1,04/09/2022,Limoeiro de Anadia,AL,B
+1807,P1,04/09/2022,Rorainópolis,RR,B
+1808,P1,04/09/2022,Brasília,DF,B
+1809,P1,04/09/2022,Blumenau,SC,B
+1810,P1,04/09/2022,Tartarugalzinho,AP,A
+1811,P1,04/09/2022,Patos de Minas,MG,B
+1812,P1,04/09/2022,Upanema,RN,A
+1813,P1,04/09/2022,Piracuruca,PI,B
+1814,P1,04/09/2022,Gramado Xavier,RS,A
+1815,P1,04/09/2022,Novo Airão,AM,B
+1816,P1,04/09/2022,Juazeiro do Norte,CE,A
+1817,P1,04/09/2022,Niterói,RJ,B
+1818,P1,04/09/2022,Rio Branco,AC,A
+1819,P1,04/09/2022,Taquaral de Goiás,GO,B
+1820,P1,04/09/2022,Boa Vista,RR,A
+1821,P1,04/09/2022,União,PI,B
+1822,P1,04/09/2022,Santo André,SP,B
+1823,P1,04/09/2022,Aquidabã,SE,A
+1824,P1,04/09/2022,Buriticupu,MA,B
+1825,P1,04/09/2022,São João da Barra,RJ,B
+1826,P1,04/09/2022,Prata,PB,A
+1827,P1,04/09/2022,Bom Jesus do Itabapoana,RJ,B
+1828,P1,04/09/2022,Duque de Caxias,RJ,A
+1829,P1,04/09/2022,Sena Madureira,AC,B
+1830,P1,04/09/2022,São Miguel Arcanjo,SP,A
+1831,P1,04/09/2022,Santa Luzia,MG,A
+1832,P1,04/09/2022,Belo Horizonte,MG,B
+1833,P1,04/09/2022,Macapá,AP,B
+1834,P1,04/09/2022,Nova Cantu,PR,B
+1835,P1,04/09/2022,Pará de Minas,MG,A
+1836,P1,04/09/2022,São Miguel das Missões,RS,B
+1837,P1,04/09/2022,Irupi,ES,B
+1838,P1,04/09/2022,São Pedro da Aldeia,RJ,B
+1839,P1,04/09/2022,Macapá,AP,A
+1840,P1,04/09/2022,Bragança,PA,A
+1841,P1,04/09/2022,São Paulo,SP,A
+1842,P1,04/09/2022,Capitão,RS,B
+1843,P1,04/09/2022,Maceió,AL,A
+1844,P1,04/09/2022,São Roque do Canaã,ES,B
+1845,P1,04/09/2022,Jaboatão dos Guararapes,PE,A
+1846,P1,04/09/2022,Dionísio Cerqueira,SC,B
+1847,P1,04/09/2022,Nossa Senhora Aparecida,SE,A
+1848,P1,04/09/2022,São Miguel Arcanjo,SP,B
+1849,P1,04/09/2022,Xapuri,AC,B
+1850,P1,04/09/2022,Glória,BA,B
+1851,P1,04/09/2022,Crato,CE,A
+1852,P1,04/09/2022,Macapá,AP,B
+1853,P1,04/09/2022,Jaboticabal,SP,A
+1854,P1,04/09/2022,Rio das Ostras,RJ,B
+1855,P1,04/09/2022,São Pedro,SP,A
+1856,P1,04/09/2022,Ipanema,MG,B
+1857,P1,04/09/2022,Cotriguaçu,MT,B
+1858,P1,04/09/2022,Monções,SP,A
+1859,P1,04/09/2022,Brasília,DF,B
+1860,P1,04/09/2022,Itapiúna,CE,A
+1861,P1,04/09/2022,Mossoró,RN,A
+1862,P1,04/09/2022,Jericó,PB,B
+1863,P1,04/09/2022,Feira da Mata,BA,B
+1864,P1,04/09/2022,Tabatinga,AM,A
+1865,P1,04/09/2022,Macaíba,RN,A
+1866,P1,04/09/2022,Mariluz,PR,B
+1867,P1,04/09/2022,Ponta Grossa,PR,B
+1868,P1,04/09/2022,Paraná,RN,A
+1869,P1,04/09/2022,Brejo,MA,A
+1870,P1,04/09/2022,Itaperuçu,PR,A
+1871,P1,04/09/2022,Oeiras do Pará,PA,B
+1872,P1,04/09/2022,São Carlos,SP,A
+1873,P1,04/09/2022,Angico,TO,B
+1874,P1,04/09/2022,Mococa,SP,A
+1875,P1,04/09/2022,Divinópolis do Tocantins,TO,A
+1876,P1,04/09/2022,Palmas,TO,B
+1877,P1,04/09/2022,Curitiba,PR,A
+1878,P1,04/09/2022,Jundiaí,SP,B
+1879,P1,04/09/2022,Iranduba,AM,B
+1880,P1,04/09/2022,Codó,MA,A
+1881,P1,04/09/2022,Belmiro Braga,MG,A
+1882,P1,04/09/2022,Rinópolis,SP,B
+1883,P1,04/09/2022,Abreu e Lima,PE,A
+1884,P1,04/09/2022,Clevelândia,PR,B
+1885,P1,04/09/2022,Cabixi,RO,B
+1886,P1,04/09/2022,Gramado,RS,B
+1887,P1,04/09/2022,Rio de Janeiro,RJ,B
+1888,P1,04/09/2022,Campos Novos,SC,B
+1889,P1,04/09/2022,Carira,SE,A
+1890,P1,04/09/2022,Brasília,DF,A
+1891,P1,04/09/2022,Recife,PE,A
+1892,P1,04/09/2022,Alagoa Nova,PB,A
+1893,P1,04/09/2022,Brasília,DF,B
+1894,P1,04/09/2022,Itaporã,MS,B
+1895,P1,04/09/2022,Vespasiano,MG,A
+1896,P1,04/09/2022,Rio Sono,TO,B
+1897,P1,04/09/2022,Taubaté,SP,A
+1898,P1,04/09/2022,Firmino Alves,BA,A
+1899,P1,04/09/2022,Tabaporã,MT,A
+1900,P1,04/09/2022,Belém,PA,A
+1901,P1,04/09/2022,Rio Verde,GO,A
+1902,P1,04/09/2022,Campo Grande,MS,A
+1903,P1,04/09/2022,Boa Vista,RR,B
+1904,P1,04/09/2022,Luiziânia,SP,B
+1905,P1,04/09/2022,Encantado,RS,B
+1906,P1,04/09/2022,Natal,RN,B
+1907,P1,04/09/2022,Prata,PB,B
+1908,P1,04/09/2022,Mineiros,GO,B
+1909,P1,04/09/2022,Machadinho D'Oeste,RO,A
+1910,P1,04/09/2022,Ouricuri,PE,A
+1911,P1,04/09/2022,Jericó,PB,B
+1912,P1,04/09/2022,Anápolis,GO,A
+1913,P1,04/09/2022,Brasília,DF,B
+1914,P1,04/09/2022,Rondonópolis,MT,A
+1915,P1,04/09/2022,Jaraguá,GO,B
+1916,P1,04/09/2022,Itanhangá,MT,A
+1917,P1,04/09/2022,Cuiabá,MT,A
+1918,P1,04/09/2022,Itaiópolis,SC,B
+1919,P1,04/09/2022,Belo Horizonte,MG,A
+1920,P1,04/09/2022,Araguaçu,TO,B
+1921,P1,04/09/2022,Macapá,AP,A
+1922,P1,04/09/2022,Guaçuí,ES,B
+1923,P1,04/09/2022,Laranjal do Jari,AP,B
+1924,P1,04/09/2022,Mogi das Cruzes,SP,B
+1925,P1,04/09/2022,Mirandópolis,SP,A
+1926,P1,04/09/2022,Nerópolis,GO,B
+1927,P1,04/09/2022,Orlândia,SP,B
+1928,P1,04/09/2022,Consolação,MG,A
+1929,P1,04/09/2022,Paudalho,PE,A
+1930,P1,04/09/2022,Iguaba Grande,RJ,A
+1931,P1,04/09/2022,Três Passos,RS,B
+1932,P1,04/09/2022,Fortaleza,CE,A
+1933,P1,04/09/2022,Santana do Ipanema,AL,B
+1934,P1,04/09/2022,Diadema,SP,A
+1935,P1,04/09/2022,Alta Floresta,MT,A
+1936,P1,04/09/2022,Forquilha,CE,B
+1937,P1,04/09/2022,Jequié,BA,A
+1938,P1,04/09/2022,Uberlândia,MG,A
+1939,P1,04/09/2022,Goiânia,GO,B
+1940,P1,04/09/2022,João Pessoa,PB,B
+1941,P1,04/09/2022,Castelândia,GO,B
+1942,P1,04/09/2022,Brejo Santo,CE,A
+1943,P1,04/09/2022,Colatina,ES,A
+1944,P1,04/09/2022,Pongaí,SP,A
+1945,P1,04/09/2022,Laranjal do Jari,AP,B
+1946,P1,04/09/2022,Vigia,PA,B
+1947,P1,04/09/2022,Areia Branca,SE,B
+1948,P1,04/09/2022,Pejuçara,RS,A
+1949,P1,04/09/2022,Itajaí,SC,B
+1950,P1,04/09/2022,Gramado Xavier,RS,B
+1951,P1,04/09/2022,Canela,RS,B
+1952,P1,04/09/2022,Santa Luzia D'Oeste,RO,B
+1953,P1,04/09/2022,Porto Velho,RO,A
+1954,P1,04/09/2022,Mossoró,RN,A
+1955,P1,04/09/2022,Pracuúba,AP,B
+1956,P1,04/09/2022,Valença,BA,A
+1957,P1,04/09/2022,Manaus,AM,B
+1958,P1,04/09/2022,Goiânia,GO,B
+1959,P1,04/09/2022,São Paulo,SP,B
+1960,P1,04/09/2022,Tanque do Piauí,PI,A
+1961,P1,04/09/2022,Lobato,PR,B
+1962,P1,04/09/2022,Parnaíba,PI,A
+1963,P1,04/09/2022,Araruna,PB,B
+1964,P1,04/09/2022,Brasília,DF,B
+1965,P1,04/09/2022,Caxambu,MG,A
+1966,P1,04/09/2022,Santo Estêvão,BA,A
+1967,P1,04/09/2022,Fortaleza,CE,B
+1968,P1,04/09/2022,Macapá,AP,A
+1969,P1,04/09/2022,Passo Fundo,RS,B
+1970,P1,04/09/2022,Laranjal do Jari,AP,A
+1971,P1,04/09/2022,Santa Cruz da Baixa Verde,PE,A
+1972,P1,04/09/2022,Cotriguaçu,MT,B
+1973,P1,04/09/2022,Aracaju,SE,A
+1974,P1,04/09/2022,Cabrobó,PE,A
+1975,P1,04/09/2022,Babaçulândia,TO,B
+1976,P1,04/09/2022,Ubarana,SP,B
+1977,P1,04/09/2022,Duas Barras,RJ,A
+1978,P1,04/09/2022,Macapá,AP,A
+1979,P1,04/09/2022,Recife,PE,A
+1980,P1,04/09/2022,São Fidélis,RJ,A
+1981,P1,04/09/2022,Porto Walter,AC,A
+1982,P1,04/09/2022,Feira da Mata,BA,B
+1983,P1,04/09/2022,Ouro Verde,SC,B
+1984,P1,04/09/2022,Porto Walter,AC,B
+1985,P1,04/09/2022,Canelinha,SC,B
+1986,P1,04/09/2022,São Gabriel da Cachoeira,AM,A
+1987,P1,04/09/2022,Jundiá,AL,B
+1988,P1,04/09/2022,Lorena,SP,B
+1989,P1,04/09/2022,Taipas do Tocantins,TO,B
+1990,P1,04/09/2022,Comendador Levy Gasparian,RJ,B
+1991,P1,04/09/2022,Serra,ES,B
+1992,P1,04/09/2022,Cáceres,MT,B
+1993,P1,04/09/2022,Jericó,PB,B
+1994,P1,04/09/2022,Vitorino Freire,MA,A
+1995,P1,04/09/2022,Pelotas,RS,A
+1996,P1,04/09/2022,Serra,ES,A
+1997,P1,04/09/2022,Anchieta,ES,B
+1998,P1,04/09/2022,Orobó,PE,A
