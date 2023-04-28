@@ -1,3 +1,3 @@
 #!/bin/bash
 
-! ./index.py _ "abc"
+! ./index.py simple_print _ abc "$@"
