@@ -1,0 +1,15 @@
+[tool.pdm]
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Felipe Baltor", email = "fbaltor@gmail.com"},
+]
+dependencies = [
+    "asks>=3.0.0",
+    "curio>=1.6",
+]
+requires-python = ">=3.9"
+license = {text = "MIT"}

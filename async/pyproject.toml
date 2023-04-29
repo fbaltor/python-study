@@ -1,0 +1,17 @@
+[tool.pdm]
+
+[project]
+name = ""
+version = ""
+description = ""
+authors = [
+    {name = "Felipe Baltor", email = "fbaltor@gmail.com"},
+]
+dependencies = [
+    "trio>=0.22.0",
+    "anyio>=3.6.2",
+    "httpx>=0.24.0",
+    "asks>=3.0.0",
+]
+requires-python = ">=3.9"
+license = {text = "MIT"}
