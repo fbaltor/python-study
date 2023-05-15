@@ -8,7 +8,7 @@ async def request(client):
 async def main():
     async with httpx.AsyncClient() as client:
         async with anyio.create_task_group() as tg:
-            for num in range(1000):
+            for num in range(100):
                 tg.start_soon(request, client)
 
 start_time = time.time()
